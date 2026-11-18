@@ -2,7 +2,6 @@ name: Auto Update All-In-One JSON (Every 2 Mins)
 
 on:
   schedule:
-    # Triggers every 15 minutes; each run loops 7 times (every 2 mins)
     - cron: "*/15 * * * *"
   workflow_dispatch:
 
@@ -36,7 +35,7 @@ jobs:
             echo "--- Cycle $i at $(date -u) ---"
             python fetch.py
             git pull --rebase || true
-            git add allinone.json
+            git add Data/events/allinone.json
             if ! git diff --quiet || ! git diff --staged --quiet; then
               git commit -m "Update allinone.json (cycle $i)"
               git push
