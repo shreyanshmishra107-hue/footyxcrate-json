@@ -1,41 +1,6 @@
 {
-  "last_updated": "19/11/2026, 4:45:41 am",
+  "last_updated": "19/11/2026, 5:01:03 am",
   "events": [
-    {
-      "id": 1278,
-      "title": "Grand Slim of Darts",
-      "slug": "Grand-Slim-of-Darts",
-      "cat": "Darts",
-      "status": "ended",
-      "event": {
-        "name": "Grand Slim of Darts",
-        "category": "Darts",
-        "type": "",
-        "logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "teamA": "Darts",
-        "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "teamB": "Darts",
-        "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "startTimeIST": "2026-11-19 00:30:00 IST",
-        "endTimeIST": "2026-11-19 04:30:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "SPORT 1 DE - AQ",
-          "type": "mpd",
-          "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-          "api": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
-        },
-        {
-          "id": 2,
-          "title": "NOVA SPORTS CZ AQ",
-          "type": "mpd",
-          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
     {
       "id": 1236,
       "title": "New Zealand vs India",
@@ -216,7 +181,7 @@
       "title": "Cruzeiro vs Palmeiras",
       "slug": "Cruzeiro-vs-Palmeiras",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Campeonato Brasileiro Série A",
         "category": "Football",
@@ -258,7 +223,7 @@
       "title": "Flamengo vs Athletico",
       "slug": "Flamengo-vs-Athletico",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Campeonato Brasileiro Série A",
         "category": "Football",
@@ -484,7 +449,15 @@
         "startTimeIST": "2026-11-19 06:00:00 IST",
         "endTimeIST": "2026-11-19 08:20:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PREMIERER BR",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+          "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b"
+        }
+      ]
     },
     {
       "id": 1265,
@@ -524,7 +497,15 @@
         "startTimeIST": "2026-11-19 06:00:00 IST",
         "endTimeIST": "2026-11-19 08:20:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PREMIERER BR",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+          "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
+        }
+      ]
     },
     {
       "id": 1266,
