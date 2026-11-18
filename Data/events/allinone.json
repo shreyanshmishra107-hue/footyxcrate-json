@@ -1,10 +1,10 @@
 {
-  "last_updated": "18/11/2026, 1:31:08 pm",
+  "last_updated": "18/11/2026, 3:38:35 pm",
   "events": [
     {
       "id": 1211,
       "title": "Australia vs England",
-      "slug": "One Day International-Australia-vs-England1794944435742",
+      "slug": "Australia-vs-England",
       "cat": "Cricket",
       "status": "live",
       "event": {
@@ -67,7 +67,7 @@
     {
       "id": 1214,
       "title": "Pakistan vs Sri Lanka",
-      "slug": "ICC World Test Championship-Pakistan-vs-Sri Lanka1794569251409",
+      "slug": "Pakistan-vs-Sri-Lanka",
       "cat": "Cricket",
       "status": "live",
       "event": {
@@ -128,65 +128,9 @@
       ]
     },
     {
-      "id": 1215,
-      "title": "Ireland Women vs Scotland Women",
-      "slug": "Womens Emerging Nations Trophy-Ireland Women-vs-Scotland Women1794890972664",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "Womens Emerging Nations Trophy",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "teamA": "Ireland Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-        "teamB": "Scotland Women",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/453162/image",
-        "startTimeIST": "2026-11-18 10:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "ICC TV FHD",
-          "type": "mpd",
-          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795006966~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=a442e7513aa54b4dff0acf0a6d2bbfb5469d09d595f36b01e8d2ad02265beafd/manifest.mpd?vcfilter=f4e483dc-fc25-46c7-a270-0a28978bfe20&",
-          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        }
-      ]
-    },
-    {
-      "id": 1216,
-      "title": "Papua New Guinea Women vs United Arab Emirates Women",
-      "slug": "Womens Emerging Nations Trophy-Papua New Guinea Women-vs-United Arab Emirates Women1794890972664",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "Womens Emerging Nations Trophy",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "teamA": "Papua New Guinea Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/453165/image",
-        "teamB": "United Arab Emirates Women",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/291494/image",
-        "startTimeIST": "2026-11-18 10:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "ICC TV FHD",
-          "type": "mpd",
-          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795007101~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=07d42f192cbbd28389764b0a0c06d73fdb85be19dff53148af65f1979844c691/manifest.mpd?vcfilter=268c69c2-f531-4ad0-8022-ae44ad8a66ef&",
-          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        }
-      ]
-    },
-    {
       "id": 1218,
       "title": "South Africa vs Bangladesh",
-      "slug": "ICC World Test Championship-South Africa-vs-Bangladesh1794177341266",
+      "slug": "South-Africa-vs-Bangladesh",
       "cat": "Cricket",
       "status": "live",
       "event": {
@@ -206,8 +150,8 @@
           "id": 1,
           "title": "WILLOW - AQ",
           "type": "mpd",
-          "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd",
-          "api": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c"
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd",
+          "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e"
         },
         {
           "id": 2,
@@ -227,8 +171,8 @@
           "id": 4,
           "title": "WILLOW S2 - AQ",
           "type": "mpd",
-          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd",
-          "api": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c"
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd",
+          "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e"
         },
         {
           "id": 5,
@@ -249,9 +193,9 @@
     {
       "id": 1220,
       "title": "Bangladesh Women vs Thailand Women",
-      "slug": "Womens Emerging Nations Trophy-Bangladesh Women-vs-Thailand Women1794890972663",
+      "slug": "Bangladesh-Women-vs-Thailand-Women",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Womens Emerging Nations Trophy",
         "category": "Cricket",
@@ -264,14 +208,36 @@
         "startTimeIST": "2026-11-18 14:45:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PLAYZ TV FHD",
+          "type": "mpd",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021544~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5bb93f39e3f5d1d1097cc13df511c119ded4c5b1b5ea5ae79b17baf370c3894e/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418",
+          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "id": 2,
+          "title": "MYCO PK",
+          "type": "m3u8",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAMASHA - AQ [PK]",
+          "type": "m3u8",
+          "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1219,
       "title": "Netherlands Women vs Zimbabwe Women",
-      "slug": "Womens Emerging Nations Trophy-Netherlands Women-vs-Zimbabwe Women1794890972664",
+      "slug": "Netherlands-Women-vs-Zimbabwe-Women",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Womens Emerging Nations Trophy",
         "category": "Cricket",
@@ -284,12 +250,34 @@
         "startTimeIST": "2026-11-18 14:45:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PLAYZ TV LIVE",
+          "type": "mpd",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021612~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f35348c7fbb05d1aad3da10e0fd7a946e123b0a4ad8a992c4fdb2c38506d5d5d/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711",
+          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "id": 2,
+          "title": "MYCO - AQ [PK]",
+          "type": "m3u8",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAMASHA - AQ [PK]",
+          "type": "m3u8",
+          "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1217,
       "title": "Nepal Premier League",
-      "slug": "Nepal Premier League -NPL-vs-NPL1792992662505",
+      "slug": "Nepal-Premier-League",
       "cat": "Cricket",
       "status": "upcoming",
       "event": {
@@ -317,7 +305,7 @@
     {
       "id": 1221,
       "title": "Abu Dhabi T10 League",
-      "slug": "Abu Dhabi T10 League-UAE Bulls-vs-Yas Lions1793858810503",
+      "slug": "UAE-Bulls-vs-Yas-Lions",
       "cat": "Cricket",
       "status": "upcoming",
       "event": {
@@ -337,7 +325,7 @@
     {
       "id": 1222,
       "title": "BK Häcken FF vs Manchester City",
-      "slug": "UEFA Women's Champions League-BK Häcken FF-vs-Manchester City1794947513292",
+      "slug": "BK-Häcken-FF-vs-Manchester-City",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -357,7 +345,7 @@
     {
       "id": 1223,
       "title": "Real Madrid vs Inter",
-      "slug": "UEFA Women's Champions League-Real Madrid-vs-Inter1794947513291",
+      "slug": "Real-Madrid-vs-Inter",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -377,7 +365,7 @@
     {
       "id": 1224,
       "title": "Club Portugalete vs Real Unión Club",
-      "slug": "Copa del Rey-Club Portugalete-vs-Real Unión Club1794947513293",
+      "slug": "Club-Portugalete-vs-Real-Unión-Club",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -397,7 +385,7 @@
     {
       "id": 1225,
       "title": "Utebo FC vs CE Sabadell",
-      "slug": "Copa del Rey-Utebo FC-vs-CE Sabadell1794947582856",
+      "slug": "Utebo-FC-vs-CE-Sabadell",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -417,7 +405,7 @@
     {
       "id": 1229,
       "title": "CD Alcoyano vs Mallorca",
-      "slug": "Copa del Rey-CD Alcoyano-vs-Mallorca1794947582857",
+      "slug": "CD-Alcoyano-vs-Mallorca",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -437,7 +425,7 @@
     {
       "id": 1231,
       "title": "Deportiva Minera vs FC Cartagena",
-      "slug": "Copa del Rey-Deportiva Minera-vs-FC Cartagena1794947513293",
+      "slug": "Deportiva-Minera-vs-FC-Cartagena",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -457,7 +445,7 @@
     {
       "id": 1233,
       "title": "Reus FC Reddis vs Barakaldo CF",
-      "slug": "Copa del Rey-Reus FC Reddis-vs-Barakaldo CF1794947585819",
+      "slug": "Reus-FC-Reddis-vs-Barakaldo-CF",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -477,7 +465,7 @@
     {
       "id": 1234,
       "title": "Chelsea FC vs Paris Saint-Germain",
-      "slug": "UEFA Women's Champions League-Chelsea FC-vs-Paris Saint-Germain1794947513291",
+      "slug": "Chelsea-FC-vs-Paris-Saint-Germain",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -497,7 +485,7 @@
     {
       "id": 1235,
       "title": "Juventus vs Oud-Heverlee Leuven",
-      "slug": "UEFA Women's Champions League-Juventus-vs-Oud-Heverlee Leuven1794947513289",
+      "slug": "Juventus-vs-Oud-Heverlee-Leuven",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -517,7 +505,7 @@
     {
       "id": 1236,
       "title": "New Zealand vs India",
-      "slug": "ICC World Test Championship-New Zealand-vs-India1794827605939",
+      "slug": "New-Zealand-vs-India",
       "cat": "Cricket",
       "status": "upcoming",
       "event": {
@@ -537,7 +525,7 @@
     {
       "id": 1237,
       "title": "Coritiba vs Santos",
-      "slug": "Campeonato Brasileiro Série A-Coritiba-vs-Santos1794947513290",
+      "slug": "Coritiba-vs-Santos",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -557,7 +545,7 @@
     {
       "id": 1238,
       "title": "Remo vs Chapecoense",
-      "slug": "Campeonato Brasileiro Série A-Remo-vs-Chapecoense1794947513293",
+      "slug": "Remo-vs-Chapecoense",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -577,7 +565,7 @@
     {
       "id": 1239,
       "title": "Cruzeiro vs Palmeiras",
-      "slug": "Campeonato Brasileiro Série A-Cruzeiro-vs-Palmeiras1794947513293",
+      "slug": "Cruzeiro-vs-Palmeiras",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -597,7 +585,7 @@
     {
       "id": 1240,
       "title": "Flamengo vs Athletico",
-      "slug": "Campeonato Brasileiro Série A-Flamengo-vs-Athletico1794947513292",
+      "slug": "Flamengo-vs-Athletico",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -617,7 +605,7 @@
     {
       "id": 1241,
       "title": "AEW Dynamite",
-      "slug": "AEW Dynamite-AEW-vs-AEW1779909561675",
+      "slug": "AEW-Dynamite",
       "cat": "WWE",
       "status": "upcoming",
       "event": {
@@ -635,9 +623,109 @@
       "streams": []
     },
     {
+      "id": 1260,
+      "title": "Cleveland Cavaliers vs Memphis Grizzlies",
+      "slug": "Cleveland-Cavaliers-vs-Memphis-Grizzlies",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Cleveland Cavaliers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "teamB": "Memphis Grizzlies",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "startTimeIST": "2026-11-19 05:30:00 IST",
+        "endTimeIST": "2026-11-19 08:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1261,
+      "title": "Indiana Pacers vs Houston Rockets",
+      "slug": "Indiana-Pacers-vs-Houston-Rockets",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Indiana Pacers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "teamB": "Houston Rockets",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "startTimeIST": "2026-11-19 05:30:00 IST",
+        "endTimeIST": "2026-11-19 08:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1262,
+      "title": "Orlando Magic vs Philadelphia 76ers",
+      "slug": "Orlando-Magic-vs-Philadelphia-76ers",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Orlando Magic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "teamB": "Philadelphia 76ers",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "startTimeIST": "2026-11-19 05:30:00 IST",
+        "endTimeIST": "2026-11-19 08:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1263,
+      "title": "Vice City Heat vs Milwaukee Bucks",
+      "slug": "Vice-City-Heat-vs-Milwaukee-Bucks",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Vice City Heat",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamB": "Milwaukee Bucks",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "startTimeIST": "2026-11-19 05:30:00 IST",
+        "endTimeIST": "2026-11-19 08:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1264,
+      "title": "Brooklyn Nets vs Chicago Bulls",
+      "slug": "Brooklyn-Nets-vs-Chicago-Bulls",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "teamB": "Chicago Bulls",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "startTimeIST": "2026-11-19 06:00:00 IST",
+        "endTimeIST": "2026-11-19 09:00:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 1243,
       "title": "Corinthians vs Botafogo",
-      "slug": "Campeonato Brasileiro Série A-Corinthians-vs-Botafogo1794947513291",
+      "slug": "Corinthians-vs-Botafogo",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -655,9 +743,29 @@
       "streams": []
     },
     {
+      "id": 1265,
+      "title": "Detroit Red Wings vs Boston Bruins",
+      "slug": "Detroit-Red-Wings-vs-Boston-Bruins",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamB": "Boston Bruins",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "startTimeIST": "2026-11-19 06:00:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 1242,
       "title": "Grêmio vs Bahia",
-      "slug": "Campeonato Brasileiro Série A-Grêmio-vs-Bahia1794947513292",
+      "slug": "Grêmio-vs-Bahia",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -675,9 +783,229 @@
       "streams": []
     },
     {
+      "id": 1266,
+      "title": "New Jersey Devils vs Montréal Canadiens",
+      "slug": "New-Jersey-Devils-vs-Montréal-Canadiens",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "New Jersey Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamB": "Montréal Canadiens",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "startTimeIST": "2026-11-19 06:00:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 1267,
+      "title": "Toronto Raptors vs Washington Wizards",
+      "slug": "Toronto-Raptors-vs-Washington-Wizards",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Toronto Raptors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "teamB": "Washington Wizards",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "startTimeIST": "2026-11-19 06:00:00 IST",
+        "endTimeIST": "2026-11-19 09:00:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1268,
+      "title": "Dallas Mavericks vs Golden State Warriors",
+      "slug": "Dallas-Mavericks-vs-Golden-State-Warriors",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "teamB": "Golden State Warriors",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "startTimeIST": "2026-11-19 06:30:00 IST",
+        "endTimeIST": "2026-11-19 09:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1269,
+      "title": "New Orleans Pelicans vs Detroit Pistons",
+      "slug": "New-Orleans-Pelicans-vs-Detroit-Pistons",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "New Orleans Pelicans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "teamB": "Detroit Pistons",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "startTimeIST": "2026-11-19 06:30:00 IST",
+        "endTimeIST": "2026-11-19 09:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1270,
+      "title": "Oklahoma City Thunder vs Atlanta Hawks",
+      "slug": "Oklahoma-City-Thunder-vs-Atlanta-Hawks",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "teamB": "Atlanta Hawks",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "startTimeIST": "2026-11-19 06:30:00 IST",
+        "endTimeIST": "2026-11-19 09:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1271,
+      "title": "Denver Nuggets vs Boston Celtics",
+      "slug": "Denver-Nuggets-vs-Boston-Celtics",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamB": "Boston Celtics",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "startTimeIST": "2026-11-19 08:00:00 IST",
+        "endTimeIST": "2026-11-19 11:00:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1272,
+      "title": "Los Angeles Lakers vs Utah Jazz",
+      "slug": "Los-Angeles-Lakers-vs-Utah-Jazz",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Los Angeles Lakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "teamB": "Utah Jazz",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "startTimeIST": "2026-11-19 08:30:00 IST",
+        "endTimeIST": "2026-11-19 11:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1273,
+      "title": "Sacramento Kings vs Phoenix Suns",
+      "slug": "Sacramento-Kings-vs-Phoenix-Suns",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Sacramento Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "teamB": "Phoenix Suns",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "startTimeIST": "2026-11-19 08:30:00 IST",
+        "endTimeIST": "2026-11-19 11:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1274,
+      "title": "Utah Mammoth vs Colorado Avalanche",
+      "slug": "Utah-Mammoth-vs-Colorado-Avalanche",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Utah Mammoth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamB": "Colorado Avalanche",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "startTimeIST": "2026-11-19 08:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 1275,
+      "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
+      "slug": "Hobart-Hurricanes-Women-vs-Perth-Scorchers-Women",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "Women's Big Bash League",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamA": "Hobart Hurricanes Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "teamB": "Perth Scorchers Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "startTimeIST": "2026-11-19 10:10:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 1276,
+      "title": "Brisbane Heat Women vs Sydney Thunder Women",
+      "slug": "Brisbane-Heat-Women-vs-Sydney-Thunder-Women",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "Women's Big Bash League",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamA": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "teamB": "Sydney Thunder Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "startTimeIST": "2026-11-19 13:40:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 1244,
       "title": "Formula 1",
-      "slug": "Formula 1-Formula 1-vs-Formula 11769105324064",
+      "slug": "Formula-1-vs-Formula",
       "cat": "Motorsport",
       "status": "upcoming",
       "event": {
@@ -697,7 +1025,7 @@
     {
       "id": 1245,
       "title": "MotoGP",
-      "slug": "MotoGP-MotoGP-vs-MotoGP1792758703261",
+      "slug": "MotoGP",
       "cat": "Motorsport",
       "status": "upcoming",
       "event": {
@@ -717,7 +1045,7 @@
     {
       "id": 1246,
       "title": "ONE FRIDAY FIGHTS 179",
-      "slug": "ONE Fighting Championship-Petkhaokradong Lukjaomaesaithong-vs-Vadzim Shapiatsiuk1786711701956",
+      "slug": "Petkhaokradong-Lukjaomaesaithong-vs-Vadzim-Shapiatsiuk",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -737,7 +1065,7 @@
     {
       "id": 1247,
       "title": "Friday Night SmackDown",
-      "slug": "Friday Night SmackDown-SmackDown-vs-SmackDown1787665254564",
+      "slug": "Friday-Night-SmackDown",
       "cat": "WWE",
       "status": "upcoming",
       "event": {
@@ -757,7 +1085,7 @@
     {
       "id": 1248,
       "title": "BKFC 97",
-      "slug": "BKFC-BKFC-vs-BKFC1791018331398",
+      "slug": "BKFC-97",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -777,7 +1105,7 @@
     {
       "id": 1249,
       "title": "Mateusz Legierski vs Ivan Buchinger",
-      "slug": "OKTAGON MMA-Christian Eckerlin-vs-David Kozma1790436931693",
+      "slug": "Mateusz-Legierski-vs-Ivan-Buchinger",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -797,7 +1125,7 @@
     {
       "id": 1250,
       "title": "Jiří Procházka vs Navajo Stirling",
-      "slug": "UFC-Jiří Procházka-vs-Navajo Stirling1794770362756",
+      "slug": "Jiří-Procházka-vs-Navajo-Stirling",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -817,7 +1145,7 @@
     {
       "id": 1251,
       "title": "WWE Monday Night RAW",
-      "slug": "WWE Monday Night RAW-WWE Monday Night RAW-vs-WWE Monday Night RAW1786396471557",
+      "slug": "WWE-Monday-Night-RAW",
       "cat": "WWE",
       "status": "upcoming",
       "event": {
@@ -837,7 +1165,7 @@
     {
       "id": 1252,
       "title": "Ozcan vs Afakir",
-      "slug": "GLORY 109-Kwasi-vs-Hristov1788631707028",
+      "slug": "Ozcan-vs-Afakir",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
@@ -857,7 +1185,7 @@
     {
       "id": 1253,
       "title": "KABAYEL vs HYSA",
-      "slug": "QUEENSBERRY-Buatsi-vs-Hutchinson1794075257644",
+      "slug": "KABAYEL-vs-HYSA",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
@@ -877,7 +1205,7 @@
     {
       "id": 1254,
       "title": "Henry Cejudo vs Song Yadong",
-      "slug": "RAF 14-Tsarukyan-vs-Danis1792770117781",
+      "slug": "Henry-Cejudo-vs-Song-Yadong",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -897,7 +1225,7 @@
     {
       "id": 1255,
       "title": "GROMDA FIGHT CLUB 26",
-      "slug": "GROMDA FIGHT CLUB 26-GROMDA-vs-GROMDA1788515785480",
+      "slug": "GROMDA-FIGHT-CLUB-26",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
@@ -917,7 +1245,7 @@
     {
       "id": 1256,
       "title": "McKenna vs Aleksejevs",
-      "slug": "Zuffa Boxing 11-Fisher-vs-Pirotton1790435411886",
+      "slug": "McKenna-vs-Aleksejevs",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
@@ -937,7 +1265,7 @@
     {
       "id": 1257,
       "title": "ZOUAD vs DIANI",
-      "slug": "PFL-Mostafa Rashed Neda-vs-Osama Elsaidy1790953742942",
+      "slug": "ZOUAD-vs-DIANI",
       "cat": "Mixed Martial Arts",
       "status": "upcoming",
       "event": {
@@ -957,7 +1285,7 @@
     {
       "id": 1258,
       "title": "Jose Aldo vs Lazy Boy",
-      "slug": "WBC CHAMPIONSHIP-INOUE-vs-NASUKAWA1790495303012",
+      "slug": "Jose-Aldo-vs-Lazy-Boy",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
@@ -977,7 +1305,7 @@
     {
       "id": 1259,
       "title": "Jack Paul vs Cedric Doumbe",
-      "slug": "MVPW 6-MVPW -vs-MVPW1788015483382",
+      "slug": "Jack-Paul-vs-Cedric-Doumbe",
       "cat": "Boxing",
       "status": "upcoming",
       "event": {
