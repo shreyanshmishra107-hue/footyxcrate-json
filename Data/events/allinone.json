@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/11/2026, 9:33:07 am",
+  "last_updated": "19/11/2026, 9:53:32 am",
   "events": [
     {
       "id": 1236,
@@ -121,54 +121,6 @@
       ]
     },
     {
-      "id": 1265,
-      "title": "Detroit Red Wings vs Boston Bruins",
-      "slug": "Detroit-Red-Wings-vs-Boston-Bruins",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Detroit Red Wings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamB": "Boston Bruins",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "startTimeIST": "2026-11-19 06:00:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 1266,
-      "title": "New Jersey Devils vs Montréal Canadiens",
-      "slug": "New-Jersey-Devils-vs-Montréal-Canadiens",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "New Jersey Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "teamB": "Montréal Canadiens",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "startTimeIST": "2026-11-19 06:00:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PREMIER SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ]
-    },
-    {
       "id": 1268,
       "title": "Dallas Mavericks vs Golden State Warriors",
       "slug": "Dallas-Mavericks-vs-Golden-State-Warriors",
@@ -246,7 +198,15 @@
         "startTimeIST": "2026-11-19 08:00:00 IST",
         "endTimeIST": "2026-11-19 11:00:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "HD  STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/c7f7f737-aa3b-418e-a512-c71ccf773659.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1272,
@@ -266,7 +226,15 @@
         "startTimeIST": "2026-11-19 08:30:00 IST",
         "endTimeIST": "2026-11-19 11:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "HD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/d34735d1-cba0-4e1f-8acb-7e0c5aa25120.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1273,
@@ -286,7 +254,15 @@
         "startTimeIST": "2026-11-19 08:30:00 IST",
         "endTimeIST": "2026-11-19 11:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "HD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/54251159-e6d4-4700-85d8-a4a403dac15d.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1274,
@@ -339,14 +315,14 @@
           "id": 1,
           "title": "WILLOW - AQ",
           "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "api": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
+          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "api": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
         },
         {
           "id": 2,
           "title": "TAPMAD - AQ",
           "type": "m3u8",
-          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?",
           "api": ""
         },
         {
@@ -358,20 +334,13 @@
         },
         {
           "id": 4,
-          "title": "TAPMAD HD",
-          "type": "m3u8",
-          "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "api": ""
-        },
-        {
-          "id": 5,
           "title": "VITO AQ (IND)",
           "type": "m3u8",
           "link": "https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
           "api": ""
         },
         {
-          "id": 6,
+          "id": 5,
           "title": "PTV SPORTS HD",
           "type": "m3u8",
           "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
