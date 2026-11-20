@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 8:10:45 am",
+  "last_updated": "20/11/2026, 8:15:55 am",
   "events": [
     {
       "id": 1236,
@@ -966,26 +966,6 @@
       "streams": []
     },
     {
-      "id": 1730,
-      "title": "FC Bayern München vs 1. FC Köln",
-      "slug": "FC-Bayern-München-vs-1.-FC-Köln",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "teamA": "FC Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-        "teamB": "1. FC Köln",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "startTimeIST": "2026-11-21 01:00:00 IST",
-        "endTimeIST": "2026-11-21 03:20:00 IST"
-      },
-      "streams": []
-    },
-    {
       "id": 1732,
       "title": "FC Bayern München vs 1. FC Köln",
       "slug": "FC-Bayern-München-vs-1.-FC-Köln",
@@ -1006,7 +986,27 @@
       "streams": []
     },
     {
-      "id": 1731,
+      "id": 1734,
+      "title": "FC Bayern München vs 1. FC Köln",
+      "slug": "FC-Bayern-München-vs-1.-FC-Köln",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "Bundesliga",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamA": "FC Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+        "teamB": "1. FC Köln",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "startTimeIST": "2026-11-21 01:00:00 IST",
+        "endTimeIST": "2026-11-21 03:20:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1733,
       "title": "Troyes vs Le Havre",
       "slug": "Troyes-vs-Le-Havre",
       "cat": "Football",
@@ -1026,7 +1026,7 @@
       "streams": []
     },
     {
-      "id": 1733,
+      "id": 1735,
       "title": "Troyes vs Le Havre",
       "slug": "Troyes-vs-Le-Havre",
       "cat": "Football",
