@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/11/2026, 8:15:55 am",
+  "last_updated": "20/11/2026, 8:21:05 am",
   "events": [
     {
       "id": 1236,
@@ -391,7 +391,7 @@
       "title": "Orlando City SC vs FC Cincinnati",
       "slug": "Orlando-City-SC-vs-FC-Cincinnati",
       "cat": "Football",
-      "status": "live",
+      "status": "ended",
       "event": {
         "name": "MLS",
         "category": "Football",
@@ -419,7 +419,7 @@
       "title": "São Paulo vs Fluminense",
       "slug": "São-Paulo-vs-Fluminense",
       "cat": "Football",
-      "status": "live",
+      "status": "ended",
       "event": {
         "name": "Campeonato Brasileiro Série A",
         "category": "Football",
@@ -966,26 +966,6 @@
       "streams": []
     },
     {
-      "id": 1732,
-      "title": "FC Bayern München vs 1. FC Köln",
-      "slug": "FC-Bayern-München-vs-1.-FC-Köln",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "teamA": "FC Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-        "teamB": "1. FC Köln",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "startTimeIST": "2026-11-21 01:00:00 IST",
-        "endTimeIST": "2026-11-21 03:20:00 IST"
-      },
-      "streams": []
-    },
-    {
       "id": 1734,
       "title": "FC Bayern München vs 1. FC Köln",
       "slug": "FC-Bayern-München-vs-1.-FC-Köln",
@@ -1006,7 +986,27 @@
       "streams": []
     },
     {
-      "id": 1733,
+      "id": 1736,
+      "title": "FC Bayern München vs 1. FC Köln",
+      "slug": "FC-Bayern-München-vs-1.-FC-Köln",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "Bundesliga",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamA": "FC Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+        "teamB": "1. FC Köln",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "startTimeIST": "2026-11-21 01:00:00 IST",
+        "endTimeIST": "2026-11-21 03:20:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1735,
       "title": "Troyes vs Le Havre",
       "slug": "Troyes-vs-Le-Havre",
       "cat": "Football",
@@ -1026,7 +1026,7 @@
       "streams": []
     },
     {
-      "id": 1735,
+      "id": 1737,
       "title": "Troyes vs Le Havre",
       "slug": "Troyes-vs-Le-Havre",
       "cat": "Football",
