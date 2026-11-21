@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 5:31:01 am",
+  "last_updated": "21/11/2026, 5:56:37 am",
   "events": [
     {
       "id": 1236,
@@ -145,7 +145,22 @@
         "startTimeIST": "2026-11-21 05:30:00 IST",
         "endTimeIST": "2026-11-21 08:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PlayZ TV Live",
+          "type": "m3u8",
+          "link": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8",
+          "api": ""
+        },
+        {
+          "id": 2,
+          "title": "NBA PASS FHD",
+          "type": "m3u8",
+          "link": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 1247,
@@ -305,83 +320,76 @@
         },
         {
           "id": 2,
-          "title": "SKY VIA APPLE TV AQ",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
-          "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2"
-        },
-        {
-          "id": 3,
           "title": "SKY SPORTS F1 DE AQ",
           "type": "mpd",
           "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
           "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2"
         },
         {
-          "id": 4,
+          "id": 3,
           "title": "TSN SPORTS - AQ",
           "type": "mpd",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
-          "id": 5,
+          "id": 4,
           "title": "Sportv 3 BR - AQ",
           "type": "mpd",
           "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
           "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
         },
         {
-          "id": 6,
+          "id": 5,
           "title": "CANAL5 FHD",
           "type": "mpd",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
           "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         },
         {
-          "id": 7,
+          "id": 6,
           "title": "AUVIO SPORTS - AQ",
           "type": "mpd",
           "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/1cd70056.isml/.mpd?t=2026-11-08T16:25:00.000",
           "api": "92103dbd34b2430eaf2cb24c68c2bac3:897328898d0de93cd7fb8598a4b75f09"
         },
         {
-          "id": 8,
+          "id": 7,
           "title": "SETANTA SPORTS AQ",
           "type": "m3u8",
           "link": "https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8",
           "api": ""
         },
         {
-          "id": 9,
+          "id": 8,
           "title": "FORMULA 1 FHD",
           "type": "m3u8",
           "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
           "api": ""
         },
         {
-          "id": 10,
+          "id": 9,
           "title": "Sportscast FHD",
           "type": "m3u8",
           "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8",
           "api": ""
         },
         {
-          "id": 11,
+          "id": 10,
           "title": "SKY SPORTS HD",
           "type": "m3u8",
           "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?",
           "api": ""
         },
         {
-          "id": 12,
+          "id": 11,
           "title": "RUSSIAN FEED",
           "type": "m3u8",
           "link": "https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https",
           "api": ""
         },
         {
-          "id": 13,
+          "id": 12,
           "title": "ELEVEN SPORTS",
           "type": "mpd",
           "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
