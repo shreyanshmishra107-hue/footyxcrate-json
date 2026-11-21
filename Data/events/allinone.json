@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 2:27:02 am",
+  "last_updated": "22/11/2026, 2:32:12 am",
   "events": [
     {
       "id": 2063,
@@ -209,7 +209,7 @@
       "title": "Philadelphia 76ers vs Milwaukee Bucks",
       "slug": "Philadelphia-76ers-vs-Milwaukee-Bucks",
       "cat": "Basketball",
-      "status": "live",
+      "status": "ended",
       "event": {
         "name": "NBA",
         "category": "Basketball",
@@ -969,7 +969,7 @@
       "title": "FC Dallas vs Portland Timbers",
       "slug": "FC-Dallas-vs-Portland-Timbers",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "MLS",
         "category": "Football",
@@ -1855,7 +1855,7 @@
       "streams": []
     },
     {
-      "id": 2256,
+      "id": 2257,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
@@ -1875,7 +1875,7 @@
       "streams": []
     },
     {
-      "id": 2257,
+      "id": 2258,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
