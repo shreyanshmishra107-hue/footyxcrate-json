@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 12:41:39 pm",
+  "last_updated": "21/11/2026, 1:07:09 pm",
   "events": [
     {
       "id": 1248,
@@ -550,6 +550,26 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
         "teamB": "Lecce",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+        "startTimeIST": "2026-11-21 19:30:00 IST",
+        "endTimeIST": "2026-11-21 21:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 2024,
+      "title": "NorthEast United FC vs FC Goa",
+      "slug": "NorthEast-United-FC-vs-FC-Goa",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "Indian Super League",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "teamA": "NorthEast United FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174602/image",
+        "teamB": "FC Goa",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
         "startTimeIST": "2026-11-21 19:30:00 IST",
         "endTimeIST": "2026-11-21 21:50:00 IST"
       },
