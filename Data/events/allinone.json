@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/11/2026, 9:03:24 pm",
+  "last_updated": "21/11/2026, 9:08:32 pm",
   "events": [
     {
       "id": 2001,
@@ -484,26 +484,6 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/4226/image",
         "teamB": "New Zealand",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
-        "startTimeIST": "2026-11-21 19:40:00 IST",
-        "endTimeIST": "2026-11-21 22:40:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2067,
-      "title": "Scotland vs Japan",
-      "slug": "Scotland-vs-Japan",
-      "cat": "Rugby",
-      "status": "live",
-      "event": {
-        "name": "Nations Championship",
-        "category": "Rugby",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "teamA": "Scotland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4230/image",
-        "teamB": "Japan",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
         "startTimeIST": "2026-11-21 19:40:00 IST",
         "endTimeIST": "2026-11-21 22:40:00 IST"
       },
