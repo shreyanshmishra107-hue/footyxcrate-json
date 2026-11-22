@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026, 6:28:27 am",
+  "last_updated": "22/11/2026, 6:33:35 am",
   "events": [
     {
       "id": 1250,
@@ -599,7 +599,7 @@
       "title": "Dallas Mavericks vs Los Angeles Clippers",
       "slug": "Dallas-Mavericks-vs-Los-Angeles-Clippers",
       "cat": "Basketball",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NBA",
         "category": "Basketball",
@@ -619,7 +619,7 @@
       "title": "Minnesota Timberwolves vs Memphis Grizzlies",
       "slug": "Minnesota-Timberwolves-vs-Memphis-Grizzlies",
       "cat": "Basketball",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NBA",
         "category": "Basketball",
@@ -639,7 +639,7 @@
       "title": "San Antonio Spurs vs New Orleans Pelicans",
       "slug": "San-Antonio-Spurs-vs-New-Orleans-Pelicans",
       "cat": "Basketball",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NBA",
         "category": "Basketball",
@@ -1079,7 +1079,7 @@
       "streams": []
     },
     {
-      "id": 2303,
+      "id": 2304,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
@@ -1099,7 +1099,7 @@
       "streams": []
     },
     {
-      "id": 2304,
+      "id": 2305,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
