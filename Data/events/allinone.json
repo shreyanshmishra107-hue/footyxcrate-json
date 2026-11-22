@@ -1,725 +1,40 @@
 {
-  "last_updated": "22/11/2026, 6:38:43 am",
+  "last_updated": "22/11/2026, 1:08:45 pm",
   "events": [
     {
-      "id": 1250,
-      "title": "Jiří Procházka vs Navajo Stirling",
-      "slug": "Jiří-Procházka-vs-Navajo-Stirling",
-      "cat": "Mixed Martial Arts",
+      "id": 2361,
+      "title": "Japan vs Argentina",
+      "slug": "Japan-vs-Argentina",
+      "cat": "Tennis",
       "status": "live",
       "event": {
-        "name": "UFC",
-        "category": "Mixed Martial Arts",
+        "name": "BJK CUP",
+        "category": "Tennis",
         "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "teamA": "Jiří Procházka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/467400/image",
-        "teamB": "Navajo Stirling",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/863998/image",
-        "startTimeIST": "2026-11-21 20:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PARAMOUNT+ FHD",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4qdgd4mmo9/out/v1/0a47a5d7670a45809470b9f166bfe881/cenc.mpd",
-          "api": "2500035f00c78f8af6ac34417b56ad1a:055b8962417dc85371837afe265cb0b9"
-        },
-        {
-          "id": 2,
-          "title": "TNT SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "id": 3,
-          "title": "SETANTA SPORTS RU AQ",
-          "type": "m3u8",
-          "link": "https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8",
-          "api": ""
-        },
-        {
-          "id": 4,
-          "title": "SportsNet FHD",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-          "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b"
-        },
-        {
-          "id": 5,
-          "title": "STARZPLAY EN/AR - AQ",
-          "type": "mpd",
-          "link": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-          "api": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
-        },
-        {
-          "id": 6,
-          "title": "PlayZ TV HD",
-          "type": "m3u8",
-          "link": "https://admin.formaturamaxi.com.br/simplyabby.m3u8",
-          "api": ""
-        },
-        {
-          "id": 7,
-          "title": "SONYLIV ENG - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
-          "api": ""
-        },
-        {
-          "id": 8,
-          "title": "SONYLIV HIN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
-          "api": ""
-        },
-        {
-          "id": 9,
-          "title": "SONYLIV - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
-          "api": ""
-        },
-        {
-          "id": 10,
-          "title": "SONYLIV TEL - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
-          "api": ""
-        },
-        {
-          "id": 11,
-          "title": "SONYLIV KAN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
-          "api": ""
-        },
-        {
-          "id": 12,
-          "title": "TAPMAD - AQ",
-          "type": "m3u8",
-          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "api": ""
-        },
-        {
-          "id": 13,
-          "title": "SD STREAM",
-          "type": "m3u8",
-          "link": "https://temp.formaturamaxi.com.br/tnt.m3u8",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 2003,
-      "title": "Carolina Hurricanes vs Edmonton Oilers",
-      "slug": "Carolina-Hurricanes-vs-Edmonton-Oilers",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Carolina Hurricanes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamB": "Edmonton Oilers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "startTimeIST": "2026-11-21 23:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "SKY SPORTS MIX",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        }
-      ]
-    },
-    {
-      "id": 2007,
-      "title": "Calgary Flames vs Chicago Blackhawks",
-      "slug": "Calgary-Flames-vs-Chicago-Blackhawks",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamB": "Chicago Blackhawks",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "startTimeIST": "2026-11-22 02:00:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "SKY SPORTS MIX",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "id": 2,
-          "title": "SKY TOP EVENT",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        }
-      ]
-    },
-    {
-      "id": 1236,
-      "title": "New Zealand vs India",
-      "slug": "New-Zealand-vs-India",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "ICC World Test Championship",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "teamA": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamB": "India",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "startTimeIST": "2026-11-22 03:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "WILLOW - AQ [Ad Free]",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
-          "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73"
-        },
-        {
-          "id": 2,
-          "title": "TNT SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "id": 3,
-          "title": "TAPMAD - AQ",
-          "type": "m3u8",
-          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "api": ""
-        },
-        {
-          "id": 4,
-          "title": "WILLOW S2 - AQ",
-          "type": "mpd",
-          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
-          "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73"
-        },
-        {
-          "id": 5,
-          "title": "TEN SPORTS HD",
-          "type": "m3u8",
-          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "api": ""
-        },
-        {
-          "id": 6,
-          "title": "SONYLIV ENG - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
-          "api": ""
-        },
-        {
-          "id": 7,
-          "title": "SONYLIV HIN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
-          "api": ""
-        },
-        {
-          "id": 8,
-          "title": "SONYLIV TEL - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
-          "api": ""
-        },
-        {
-          "id": 9,
-          "title": "SONYLIV TEL - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
-          "api": ""
-        },
-        {
-          "id": 10,
-          "title": "SONYLIV KAN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
-          "api": ""
-        },
-        {
-          "id": 11,
-          "title": "CRICBUZZ [IND]",
-          "type": "m3u8",
-          "link": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 2058,
-      "title": "Atlético Mineiro vs Boca Juniors",
-      "slug": "Atlético-Mineiro-vs-Boca-Juniors",
-      "cat": "Football",
-      "status": "ended",
-      "event": {
-        "name": "CONMEBOL Sudamericana",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "teamA": "Atlético Mineiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "teamB": "Boca Juniors",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "startTimeIST": "2026-11-22 04:00:00 IST",
-        "endTimeIST": "2026-11-22 06:20:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "beIN ESPNAOL FHD",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "id": 2,
-          "title": "PLAYZ TV LIVE",
-          "type": "m3u8",
-          "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/76321/76321_264_live.m3u8",
-          "api": ""
-        },
-        {
-          "id": 3,
-          "title": "beIN SPORTS EN",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "id": 4,
-          "title": "beIN SPORTS FHD",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "api": "\u000227759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        }
-      ]
-    },
-    {
-      "id": 2221,
-      "title": "Florida Panthers vs Buffalo Sabres",
-      "slug": "Florida-Panthers-vs-Buffalo-Sabres",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "teamB": "Buffalo Sabres",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "startTimeIST": "2026-11-22 04:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2081,
-      "title": "Inter Vice City [Inter Miami CF] vs Columbus Crew",
-      "slug": "Inter-Vice-City-[Inter-Miami-CF]-vs-Columbus-Crew",
-      "cat": "Football",
-      "status": "live",
-      "event": {
-        "name": "MLS",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "teamA": "Inter Vice City [Inter Miami CF]",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-        "teamB": "Columbus Crew",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "startTimeIST": "2026-11-22 04:30:00 IST",
-        "endTimeIST": "2026-11-22 06:50:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "HD STREAM",
-          "type": "m3u8",
-          "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 2222,
-      "title": "Nashville Predators vs Pittsburgh Penguins",
-      "slug": "Nashville-Predators-vs-Pittsburgh-Penguins",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "teamB": "Pittsburgh Penguins",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "startTimeIST": "2026-11-22 04:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2223,
-      "title": "Boston Bruins vs Washington Capitals",
-      "slug": "Boston-Bruins-vs-Washington-Capitals",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Boston Bruins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamB": "Washington Capitals",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2008,
-      "title": "Chapecoense vs Cruzeiro",
-      "slug": "Chapecoense-vs-Cruzeiro",
-      "cat": "Football",
-      "status": "live",
-      "event": {
-        "name": "Campeonato Brasileiro Série A",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "teamA": "Chapecoense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamB": "Cruzeiro",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": "2026-11-22 07:50:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PREMIERER BR",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-          "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
-        }
-      ]
-    },
-    {
-      "id": 2224,
-      "title": "Detroit Red Wings vs New York Islanders",
-      "slug": "Detroit-Red-Wings-vs-New-York-Islanders",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Detroit Red Wings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamB": "New York Islanders",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2009,
-      "title": "Montréal Canadiens vs Philadelphia Flyers",
-      "slug": "Montréal-Canadiens-vs-Philadelphia-Flyers",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "teamB": "Philadelphia Flyers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2010,
-      "title": "Ottawa Senators vs Los Angeles Kings",
-      "slug": "Ottawa-Senators-vs-Los-Angeles-Kings",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamB": "Los Angeles Kings",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PREMIER SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "id": 2,
-          "title": "TSN SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ]
-    },
-    {
-      "id": 2225,
-      "title": "St. Louis Blues vs New Jersey Devils",
-      "slug": "St.-Louis-Blues-vs-New-Jersey-Devils",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "teamB": "New Jersey Devils",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2226,
-      "title": "Toronto Maple Leafs vs Columbus Blue Jackets",
-      "slug": "Toronto-Maple-Leafs-vs-Columbus-Blue-Jackets",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamB": "Columbus Blue Jackets",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2227,
-      "title": "Winnipeg Jets vs Vegas Golden Knights",
-      "slug": "Winnipeg-Jets-vs-Vegas-Golden-Knights",
-      "cat": "Hockey",
-      "status": "live",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "teamB": "Vegas Golden Knights",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "startTimeIST": "2026-11-22 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 2011,
-      "title": "New York Knicks vs Portland Trail Blazers",
-      "slug": "New-York-Knicks-vs-Portland-Trail-Blazers",
-      "cat": "Basketball",
-      "status": "live",
-      "event": {
-        "name": "NBA",
-        "category": "Basketball",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamA": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "teamB": "Portland Trail Blazers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "startTimeIST": "2026-11-22 06:00:00 IST",
-        "endTimeIST": "2026-11-22 09:00:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2012,
-      "title": "Dallas Mavericks vs Los Angeles Clippers",
-      "slug": "Dallas-Mavericks-vs-Los-Angeles-Clippers",
-      "cat": "Basketball",
-      "status": "live",
-      "event": {
-        "name": "NBA",
-        "category": "Basketball",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamA": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "teamB": "Los Angeles Clippers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "startTimeIST": "2026-11-22 06:30:00 IST",
-        "endTimeIST": "2026-11-22 09:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2013,
-      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
-      "slug": "Minnesota-Timberwolves-vs-Memphis-Grizzlies",
-      "cat": "Basketball",
-      "status": "live",
-      "event": {
-        "name": "NBA",
-        "category": "Basketball",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamA": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamB": "Memphis Grizzlies",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "startTimeIST": "2026-11-22 06:30:00 IST",
-        "endTimeIST": "2026-11-22 09:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2014,
-      "title": "San Antonio Spurs vs New Orleans Pelicans",
-      "slug": "San-Antonio-Spurs-vs-New-Orleans-Pelicans",
-      "cat": "Basketball",
-      "status": "live",
-      "event": {
-        "name": "NBA",
-        "category": "Basketball",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamA": "San Antonio Spurs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "teamB": "New Orleans Pelicans",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "startTimeIST": "2026-11-22 06:30:00 IST",
-        "endTimeIST": "2026-11-22 09:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2228,
-      "title": "Utah Mammoth vs Anaheim Ducks",
-      "slug": "Utah-Mammoth-vs-Anaheim-Ducks",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamB": "Anaheim Ducks",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqkvdHtwZcWZBzJD4Gq40SgdH8HNOo1CX5qq31b6YyKhpzr0L-LPpw5w&s=10",
+        "teamA": "Japan",
+        "teamAFlag": "https://contentfulproxy.stadion.io/gd35ic6j47k5/AapTWvL5drvyqnvx8Gpwt/dda3322466e5e65f6e7627b379f46ad9/2025-REBRAND-LAUNCH-IMAGE.png?fm=webp&fit=fill&f=face&w=1920&h=1080",
+        "teamB": "Argentina",
+        "teamBFlag": "https://contentfulproxy.stadion.io/gd35ic6j47k5/AapTWvL5drvyqnvx8Gpwt/dda3322466e5e65f6e7627b379f46ad9/2025-REBRAND-LAUNCH-IMAGE.png?fm=webp&fit=fill&f=face&w=1920&h=1080",
         "startTimeIST": "2026-11-22 07:30:00 IST",
-        "endTimeIST": ""
+        "endTimeIST": "2026-11-22 14:30:00 IST"
       },
-      "streams": []
-    },
-    {
-      "id": 2060,
-      "title": "Wellington Phoenix vs Macarthur FC",
-      "slug": "Wellington-Phoenix-vs-Macarthur-FC",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "A-League Men",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "teamA": "Wellington Phoenix",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7568/image",
-        "teamB": "Macarthur FC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-        "startTimeIST": "2026-11-22 07:30:00 IST",
-        "endTimeIST": "2026-11-22 09:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2015,
-      "title": "Sacramento Kings vs Boston Celtics",
-      "slug": "Sacramento-Kings-vs-Boston-Celtics",
-      "cat": "Basketball",
-      "status": "upcoming",
-      "event": {
-        "name": "NBA",
-        "category": "Basketball",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamA": "Sacramento Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "teamB": "Boston Celtics",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "startTimeIST": "2026-11-22 08:30:00 IST",
-        "endTimeIST": "2026-11-22 11:30:00 IST"
-      },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "BEIN SPORTS",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        }
+      ]
     },
     {
       "id": 2229,
       "title": "San Jose Sharks vs Seattle Kraken",
       "slug": "San-Jose-Sharks-vs-Seattle-Kraken",
       "cat": "Hockey",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NHL",
         "category": "Hockey",
@@ -732,14 +47,22 @@
         "startTimeIST": "2026-11-22 08:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "HD STREAM",
+          "type": "m3u8",
+          "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5e389f37-9781-4891-974b-6c35803558a9/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2230,
       "title": "Vancouver Canucks vs Minnesota Wild",
       "slug": "Vancouver-Canucks-vs-Minnesota-Wild",
       "cat": "Hockey",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NHL",
         "category": "Hockey",
@@ -752,14 +75,29 @@
         "startTimeIST": "2026-11-22 08:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PREMIER SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "id": 2,
+          "title": "HD STREAM",
+          "type": "m3u8",
+          "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/23e49965-e1a2-4e87-92ee-738f48932993/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2247,
       "title": "Brisbane Heat Women vs Adelaide Strikers Women",
       "slug": "Brisbane-Heat-Women-vs-Adelaide-Strikers-Women",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Women's Big Bash League",
         "category": "Cricket",
@@ -772,14 +110,50 @@
         "startTimeIST": "2026-11-22 10:10:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ",
+          "type": "mpd",
+          "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+          "api": "f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e"
+        },
+        {
+          "id": 2,
+          "title": "SKY CRICKET FHD",
+          "type": "m3u8",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAPMAD FHD",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "api": ""
+        },
+        {
+          "id": 4,
+          "title": "WILLOW HD",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "id": 5,
+          "title": "TAPMAD HD",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2083,
       "title": "Netherlands Women vs Sri Lanka Women",
       "slug": "Netherlands-Women-vs-Sri-Lanka-Women",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Womens Emerging Nations Trophy",
         "category": "Cricket",
@@ -792,14 +166,36 @@
         "startTimeIST": "2026-11-22 10:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PlayZ TV Live",
+          "type": "mpd",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795352061~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=ee99b7976ad338f649b416ef5debe9d7b8f799fc63b7d93396749ecd145c4f6a/manifest.mpd?vcfilter=b9ee83ad-6fd6-4d0d-aee5-44376958030f",
+          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "id": 2,
+          "title": "TAMASHA - AQ [PK]",
+          "type": "m3u8",
+          "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "MYCO AQ (PK)",
+          "type": "m3u8",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2084,
       "title": "Pakistan Women vs Scotland Women",
       "slug": "Pakistan-Women-vs-Scotland-Women",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Womens Emerging Nations Trophy",
         "category": "Cricket",
@@ -812,14 +208,36 @@
         "startTimeIST": "2026-11-22 10:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "PLAYZ TV FHD",
+          "type": "mpd",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795352006~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=e6891a1d215e1fca8ecc00ccf81260124bfa3fbc547063b0071583ba9899e65e/manifest.mpd?vcfilter=1670a3ba-9286-47db-9bd9-7a5143994e24",
+          "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "id": 2,
+          "title": "MYCO PK",
+          "type": "m3u8",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAMASHA - AQ [PK]",
+          "type": "m3u8",
+          "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2077,
       "title": "UAE vs Nepal",
       "slug": "UAE-vs-Nepal",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Asia Cup Rising Stars",
         "category": "Cricket",
@@ -832,7 +250,50 @@
         "startTimeIST": "2026-11-22 11:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW AQ",
+          "type": "mpd",
+          "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c"
+        },
+        {
+          "id": 2,
+          "title": "STARZPLAY FHD",
+          "type": "mpd",
+          "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "id": 3,
+          "title": "SONYLIV ENG - AQ",
+          "type": "m3u8",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040",
+          "api": ""
+        },
+        {
+          "id": 4,
+          "title": "TAMASHA AQ",
+          "type": "m3u8",
+          "link": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+          "api": ""
+        },
+        {
+          "id": 5,
+          "title": "TEN SPORTS HD",
+          "type": "m3u8",
+          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 6,
+          "title": "HD SERVER",
+          "type": "m3u8",
+          "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2248,
@@ -852,7 +313,43 @@
         "startTimeIST": "2026-11-22 13:40:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
+          "api": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76"
+        },
+        {
+          "id": 2,
+          "title": "SKY CRICKET FHD",
+          "type": "m3u8",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAPMAD FHD",
+          "type": "m3u8",
+          "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 4,
+          "title": "WILLOW HD",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "id": 5,
+          "title": "TAPMAD HD",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2086,
@@ -933,6 +430,26 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/213104/image",
         "startTimeIST": "2026-11-22 15:30:00 IST",
         "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 2362,
+      "title": "Nitto OPEN",
+      "slug": "Elias-Ymer-vs-Federico-Cinà",
+      "cat": "Tennis",
+      "status": "upcoming",
+      "event": {
+        "name": "Nitto OPEN",
+        "category": "Tennis",
+        "type": "",
+        "logo": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
+        "teamA": "ATP",
+        "teamAFlag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
+        "teamB": "ATP",
+        "teamBFlag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
+        "startTimeIST": "2026-11-22 16:30:00 IST",
+        "endTimeIST": "2026-11-23 04:00:00 IST"
       },
       "streams": []
     },
@@ -1079,7 +596,7 @@
       "streams": []
     },
     {
-      "id": 2305,
+      "id": 2387,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
@@ -1099,7 +616,7 @@
       "streams": []
     },
     {
-      "id": 2306,
+      "id": 2388,
       "title": "Córdoba vs Real Oviedo",
       "slug": "Córdoba-vs-Real-Oviedo",
       "cat": "Football",
@@ -1159,6 +676,26 @@
       "streams": []
     },
     {
+      "id": 2354,
+      "title": "AFC Ajax vs ADO Den Haag",
+      "slug": "AFC-Ajax-vs-ADO-Den-Haag",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "VriendenLoterij Eredivisie",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "teamA": "AFC Ajax",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+        "teamB": "ADO Den Haag",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2966/image",
+        "startTimeIST": "2026-11-22 19:00:00 IST",
+        "endTimeIST": "2026-11-22 21:20:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 2112,
       "title": "France U17 vs Saudi Arabia U17",
       "slug": "France-U17-vs-Saudi-Arabia-U17",
@@ -1173,6 +710,26 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
         "teamB": "Saudi Arabia U17",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/468403/image",
+        "startTimeIST": "2026-11-22 19:00:00 IST",
+        "endTimeIST": "2026-11-22 21:20:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 2355,
+      "title": "Sparta Rotterdam vs AZ Alkmaar",
+      "slug": "Sparta-Rotterdam-vs-AZ-Alkmaar",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "VriendenLoterij Eredivisie",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "teamA": "Sparta Rotterdam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+        "teamB": "AZ Alkmaar",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
         "startTimeIST": "2026-11-22 19:00:00 IST",
         "endTimeIST": "2026-11-22 21:20:00 IST"
       },
@@ -1539,6 +1096,26 @@
       "streams": []
     },
     {
+      "id": 2364,
+      "title": "Grand Slim of Darts",
+      "slug": "Grand-Slim-of-Darts",
+      "cat": "Darts",
+      "status": "upcoming",
+      "event": {
+        "name": "Grand Slim of Darts",
+        "category": "Darts",
+        "type": "",
+        "logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "teamA": "Darts",
+        "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "teamB": "Darts",
+        "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "startTimeIST": "2026-11-23 00:30:00 IST",
+        "endTimeIST": "2026-11-23 05:30:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 2131,
       "title": "Atalanta vs Inter",
       "slug": "Atalanta-vs-Inter",
@@ -1617,6 +1194,104 @@
         "endTimeIST": "2026-11-23 03:50:00 IST"
       },
       "streams": []
+    },
+    {
+      "id": 1236,
+      "title": "New Zealand vs India",
+      "slug": "New-Zealand-vs-India",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "ICC World Test Championship",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "teamA": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamB": "India",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "startTimeIST": "2026-11-23 03:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ [Ad Free]",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
+          "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73"
+        },
+        {
+          "id": 2,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "id": 3,
+          "title": "TAPMAD - AQ",
+          "type": "m3u8",
+          "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 4,
+          "title": "WILLOW S2 - AQ",
+          "type": "mpd",
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
+          "api": "e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f"
+        },
+        {
+          "id": 5,
+          "title": "TEN SPORTS HD",
+          "type": "m3u8",
+          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 6,
+          "title": "SONYLIV ENG - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
+          "api": ""
+        },
+        {
+          "id": 7,
+          "title": "SONYLIV HIN - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
+          "api": ""
+        },
+        {
+          "id": 8,
+          "title": "SONYLIV TEL - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
+          "api": ""
+        },
+        {
+          "id": 9,
+          "title": "SONYLIV TEL - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
+          "api": ""
+        },
+        {
+          "id": 10,
+          "title": "SONYLIV KAN - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
+          "api": ""
+        },
+        {
+          "id": 11,
+          "title": "CRICBUZZ [IND]",
+          "type": "m3u8",
+          "link": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2088,
