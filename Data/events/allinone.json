@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026, 7:26:35 am",
+  "last_updated": "23/11/2026, 7:31:43 am",
   "events": [
     {
       "id": 1236,
@@ -125,7 +125,7 @@
       "title": "Miami Heat vs Oklahoma City Thunder",
       "slug": "Miami-Heat-vs-Oklahoma-City-Thunder",
       "cat": "Basketball",
-      "status": "live",
+      "status": "ended",
       "event": {
         "name": "NBA",
         "category": "Basketball",
@@ -137,26 +137,6 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
         "startTimeIST": "2026-11-23 04:30:00 IST",
         "endTimeIST": "2026-11-23 07:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 2471,
-      "title": "CD Guadalajara vs Cruz Azul",
-      "slug": "CD-Guadalajara-vs-Cruz-Azul",
-      "cat": "Football",
-      "status": "ended",
-      "event": {
-        "name": "Liga MX, Apertura",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "teamA": "CD Guadalajara",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "teamB": "Cruz Azul",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-        "startTimeIST": "2026-11-23 04:37:00 IST",
-        "endTimeIST": "2026-11-23 06:57:00 IST"
       },
       "streams": []
     },
@@ -240,7 +220,15 @@
         "startTimeIST": "2026-11-23 05:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d4e6465c-495a-403f-b020-0d7e39e38218/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2438,
@@ -260,7 +248,15 @@
         "startTimeIST": "2026-11-23 05:30:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8e7673d3-1088-4bbf-b15f-81c34e5c203d/master.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2439,
@@ -280,7 +276,15 @@
         "startTimeIST": "2026-11-23 05:30:00 IST",
         "endTimeIST": "2026-11-23 08:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/bf362196-574a-4d2a-8289-4825579adb65.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2440,
@@ -300,7 +304,15 @@
         "startTimeIST": "2026-11-23 05:30:00 IST",
         "endTimeIST": "2026-11-23 08:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/28e2c9b5-7dd5-493d-b06f-b3e5b9095941.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2441,
@@ -320,7 +332,15 @@
         "startTimeIST": "2026-11-23 06:30:00 IST",
         "endTimeIST": "2026-11-23 09:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/afc4119f-19c2-4ebb-9d80-e2098d032b68.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 2442,
