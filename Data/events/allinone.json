@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/11/2026, 5:33:01 am",
+  "last_updated": "25/11/2026, 6:34:13 am",
   "events": [
     {
       "id": 1279,
@@ -83,7 +83,7 @@
       "title": "Edmonton Oilers vs Vegas Golden Knights",
       "slug": "Edmonton-Oilers-vs-Vegas-Golden-Knights",
       "cat": "Hockey",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NHL",
         "category": "Hockey",
@@ -118,7 +118,7 @@
       "title": "Washington Wizards vs Boston Celtics",
       "slug": "Washington-Wizards-vs-Boston-Celtics",
       "cat": "Basketball",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "NBA",
         "category": "Basketball",
