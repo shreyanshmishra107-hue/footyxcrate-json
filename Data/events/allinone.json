@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 1:53:39 am",
+  "last_updated": "28/11/2026, 1:58:47 am",
   "events": [
     {
       "id": 4099,
@@ -1719,7 +1719,7 @@
       "streams": []
     },
     {
-      "id": 4540,
+      "id": 4544,
       "title": "Angers vs RC Lens",
       "slug": "Angers-vs-RC-Lens",
       "cat": "Football",
@@ -1739,7 +1739,7 @@
       "streams": []
     },
     {
-      "id": 4544,
+      "id": 4548,
       "title": "Angers vs RC Lens",
       "slug": "Angers-vs-RC-Lens",
       "cat": "Football",
@@ -1899,26 +1899,6 @@
       "streams": []
     },
     {
-      "id": 4541,
-      "title": "Le Mans vs LOSC Lille",
-      "slug": "Le-Mans-vs-LOSC-Lille",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Le Mans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-        "teamB": "LOSC Lille",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-        "startTimeIST": "2026-11-29 01:15:00 IST",
-        "endTimeIST": "2026-11-29 03:35:00 IST"
-      },
-      "streams": []
-    },
-    {
       "id": 4545,
       "title": "Le Mans vs LOSC Lille",
       "slug": "Le-Mans-vs-LOSC-Lille",
@@ -1939,9 +1919,9 @@
       "streams": []
     },
     {
-      "id": 4542,
-      "title": "OGC Nice vs Troyes",
-      "slug": "OGC-Nice-vs-Troyes",
+      "id": 4549,
+      "title": "Le Mans vs LOSC Lille",
+      "slug": "Le-Mans-vs-LOSC-Lille",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -1949,10 +1929,10 @@
         "category": "Football",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "OGC Nice",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-        "teamB": "Troyes",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
+        "teamA": "Le Mans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+        "teamB": "LOSC Lille",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
         "startTimeIST": "2026-11-29 01:15:00 IST",
         "endTimeIST": "2026-11-29 03:35:00 IST"
       },
@@ -1979,7 +1959,27 @@
       "streams": []
     },
     {
-      "id": 4543,
+      "id": 4550,
+      "title": "OGC Nice vs Troyes",
+      "slug": "OGC-Nice-vs-Troyes",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "Ligue 1",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamA": "OGC Nice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "teamB": "Troyes",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
+        "startTimeIST": "2026-11-29 01:15:00 IST",
+        "endTimeIST": "2026-11-29 03:35:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4547,
       "title": "Paris Saint-Germain vs Lorient",
       "slug": "Paris-Saint-Germain-vs-Lorient",
       "cat": "Football",
@@ -1999,7 +1999,7 @@
       "streams": []
     },
     {
-      "id": 4547,
+      "id": 4551,
       "title": "Paris Saint-Germain vs Lorient",
       "slug": "Paris-Saint-Germain-vs-Lorient",
       "cat": "Football",
@@ -2039,26 +2039,6 @@
       "streams": []
     },
     {
-      "id": 4475,
-      "title": "Vegas Golden Knights vs Montréal Canadiens",
-      "slug": "Vegas-Golden-Knights-vs-Montréal-Canadiens",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamB": "Montréal Canadiens",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "startTimeIST": "2026-11-29 02:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
       "id": 1253,
       "title": "KABAYEL vs HYSA",
       "slug": "KABAYEL-vs-HYSA",
@@ -2079,186 +2059,6 @@
       "streams": []
     },
     {
-      "id": 4476,
-      "title": "Florida Panthers vs Tampa Bay Lightning",
-      "slug": "Florida-Panthers-vs-Tampa-Bay-Lightning",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "teamB": "Tampa Bay Lightning",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "startTimeIST": "2026-11-29 04:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4477,
-      "title": "Carolina Hurricanes vs Ottawa Senators",
-      "slug": "Carolina-Hurricanes-vs-Ottawa-Senators",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Carolina Hurricanes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamB": "Ottawa Senators",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4478,
-      "title": "Detroit Red Wings vs Nashville Predators",
-      "slug": "Detroit-Red-Wings-vs-Nashville-Predators",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Detroit Red Wings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamB": "Nashville Predators",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4479,
-      "title": "New Jersey Devils vs Winnipeg Jets",
-      "slug": "New-Jersey-Devils-vs-Winnipeg-Jets",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "New Jersey Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "teamB": "Winnipeg Jets",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4480,
-      "title": "New York Rangers vs Calgary Flames",
-      "slug": "New-York-Rangers-vs-Calgary-Flames",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamB": "Calgary Flames",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4481,
-      "title": "Pittsburgh Penguins vs Toronto Maple Leafs",
-      "slug": "Pittsburgh-Penguins-vs-Toronto-Maple-Leafs",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "teamB": "Toronto Maple Leafs",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4482,
-      "title": "St. Louis Blues vs Washington Capitals",
-      "slug": "St.-Louis-Blues-vs-Washington-Capitals",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "teamB": "Washington Capitals",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "startTimeIST": "2026-11-29 05:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4483,
-      "title": "Philadelphia Flyers vs New York Islanders",
-      "slug": "Philadelphia-Flyers-vs-New-York-Islanders",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "teamB": "New York Islanders",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "startTimeIST": "2026-11-29 06:00:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4484,
-      "title": "Dallas Stars vs Utah Mammoth",
-      "slug": "Dallas-Stars-vs-Utah-Mammoth",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "teamB": "Utah Mammoth",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "startTimeIST": "2026-11-29 06:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
       "id": 1254,
       "title": "Henry Cejudo vs Song Yadong",
       "slug": "Henry-Cejudo-vs-Song-Yadong",
@@ -2275,66 +2075,6 @@
         "teamBFlag": "https://rafinsider.com/wp-content/uploads/2026/06/cropped-raf-logo.png",
         "startTimeIST": "2026-11-29 06:30:00 IST",
         "endTimeIST": "2026-11-29 13:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4485,
-      "title": "Colorado Avalanche vs San Jose Sharks",
-      "slug": "Colorado-Avalanche-vs-San-Jose-Sharks",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Colorado Avalanche",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "teamB": "San Jose Sharks",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "startTimeIST": "2026-11-29 07:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4486,
-      "title": "Los Angeles Kings vs Anaheim Ducks",
-      "slug": "Los-Angeles-Kings-vs-Anaheim-Ducks",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Los Angeles Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "teamB": "Anaheim Ducks",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "startTimeIST": "2026-11-29 07:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 4487,
-      "title": "Seattle Kraken vs Edmonton Oilers",
-      "slug": "Seattle-Kraken-vs-Edmonton-Oilers",
-      "cat": "Hockey",
-      "status": "upcoming",
-      "event": {
-        "name": "NHL",
-        "category": "Hockey",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamA": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamB": "Edmonton Oilers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "startTimeIST": "2026-11-29 08:30:00 IST",
-        "endTimeIST": ""
       },
       "streams": []
     },
