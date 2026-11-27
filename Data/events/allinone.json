@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2026, 4:56:03 pm",
+  "last_updated": "27/11/2026, 5:01:11 pm",
   "events": [
     {
       "id": 3931,
@@ -88,62 +88,6 @@
           "title": "FANCODE [IND]",
           "type": "m3u8",
           "link": "https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 3993,
-      "title": "Macarthur FC vs Melbourne City",
-      "slug": "Macarthur-FC-vs-Melbourne-City",
-      "cat": "Football",
-      "status": "ended",
-      "event": {
-        "name": "A-League Men",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "teamA": "Macarthur FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-        "teamB": "Melbourne City",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-        "startTimeIST": "2026-11-27 14:10:00 IST",
-        "endTimeIST": "2026-11-27 16:30:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "TNT SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "id": 2,
-          "title": "SPORTDIGITAL FUSSBALL AQ",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "id": 3,
-          "title": "SPOTV AQ",
-          "type": "mpd",
-          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
-          "api": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e"
-        },
-        {
-          "id": 4,
-          "title": "SD STREAM",
-          "type": "m3u8",
-          "link": "https://www.rtmpcdn.com/live/b9149b1d-db70-42f9-a0b9-1581ad9ee25e.m3u8",
-          "api": ""
-        },
-        {
-          "id": 5,
-          "title": "FANCODE [IND]",
-          "type": "m3u8",
-          "link": "https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8",
           "api": ""
         }
       ]
@@ -944,7 +888,7 @@
       "streams": []
     },
     {
-      "id": 4137,
+      "id": 4139,
       "title": "Ireland vs Australia",
       "slug": "Ireland-vs-Australia",
       "cat": "Rugby",
@@ -964,7 +908,7 @@
       "streams": []
     },
     {
-      "id": 4139,
+      "id": 4141,
       "title": "Ireland vs Australia",
       "slug": "Ireland-vs-Australia",
       "cat": "Rugby",
@@ -1330,7 +1274,7 @@
       "streams": []
     },
     {
-      "id": 4138,
+      "id": 4140,
       "title": "Wales vs Japan",
       "slug": "Wales-vs-Japan",
       "cat": "Rugby",
@@ -1350,7 +1294,7 @@
       "streams": []
     },
     {
-      "id": 4140,
+      "id": 4142,
       "title": "Wales vs Japan",
       "slug": "Wales-vs-Japan",
       "cat": "Rugby",
