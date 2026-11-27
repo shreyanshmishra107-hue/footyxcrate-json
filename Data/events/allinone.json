@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/11/2026, 1:48:30 am",
+  "last_updated": "28/11/2026, 1:53:39 am",
   "events": [
     {
       "id": 4099,
@@ -42,26 +42,6 @@
           "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         }
       ]
-    },
-    {
-      "id": 4026,
-      "title": "Al-Ittihad vs Neom SC",
-      "slug": "Al-Ittihad-vs-Neom-SC",
-      "cat": "Football",
-      "status": "ended",
-      "event": {
-        "name": "Saudi Pro League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "teamA": "Al-Ittihad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamB": "Neom SC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-        "startTimeIST": "2026-11-27 23:00:00 IST",
-        "endTimeIST": "2026-11-28 01:20:00 IST"
-      },
-      "streams": []
     },
     {
       "id": 4155,
@@ -1739,7 +1719,7 @@
       "streams": []
     },
     {
-      "id": 4536,
+      "id": 4540,
       "title": "Angers vs RC Lens",
       "slug": "Angers-vs-RC-Lens",
       "cat": "Football",
@@ -1759,7 +1739,7 @@
       "streams": []
     },
     {
-      "id": 4540,
+      "id": 4544,
       "title": "Angers vs RC Lens",
       "slug": "Angers-vs-RC-Lens",
       "cat": "Football",
@@ -1919,26 +1899,6 @@
       "streams": []
     },
     {
-      "id": 4537,
-      "title": "Le Mans vs LOSC Lille",
-      "slug": "Le-Mans-vs-LOSC-Lille",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Le Mans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-        "teamB": "LOSC Lille",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-        "startTimeIST": "2026-11-29 01:15:00 IST",
-        "endTimeIST": "2026-11-29 03:35:00 IST"
-      },
-      "streams": []
-    },
-    {
       "id": 4541,
       "title": "Le Mans vs LOSC Lille",
       "slug": "Le-Mans-vs-LOSC-Lille",
@@ -1959,9 +1919,9 @@
       "streams": []
     },
     {
-      "id": 4538,
-      "title": "OGC Nice vs Troyes",
-      "slug": "OGC-Nice-vs-Troyes",
+      "id": 4545,
+      "title": "Le Mans vs LOSC Lille",
+      "slug": "Le-Mans-vs-LOSC-Lille",
       "cat": "Football",
       "status": "upcoming",
       "event": {
@@ -1969,10 +1929,10 @@
         "category": "Football",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "OGC Nice",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-        "teamB": "Troyes",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
+        "teamA": "Le Mans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+        "teamB": "LOSC Lille",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
         "startTimeIST": "2026-11-29 01:15:00 IST",
         "endTimeIST": "2026-11-29 03:35:00 IST"
       },
@@ -1999,7 +1959,27 @@
       "streams": []
     },
     {
-      "id": 4539,
+      "id": 4546,
+      "title": "OGC Nice vs Troyes",
+      "slug": "OGC-Nice-vs-Troyes",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "Ligue 1",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamA": "OGC Nice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "teamB": "Troyes",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
+        "startTimeIST": "2026-11-29 01:15:00 IST",
+        "endTimeIST": "2026-11-29 03:35:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4543,
       "title": "Paris Saint-Germain vs Lorient",
       "slug": "Paris-Saint-Germain-vs-Lorient",
       "cat": "Football",
@@ -2019,7 +1999,7 @@
       "streams": []
     },
     {
-      "id": 4543,
+      "id": 4547,
       "title": "Paris Saint-Germain vs Lorient",
       "slug": "Paris-Saint-Germain-vs-Lorient",
       "cat": "Football",
