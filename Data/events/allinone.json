@@ -1,201 +1,12 @@
 {
-  "last_updated": "27/11/2026, 7:23:31 am",
+  "last_updated": "27/11/2026, 4:56:03 pm",
   "events": [
-    {
-      "id": 4001,
-      "title": "The - Golazo Show",
-      "slug": "The-Golazo-Show",
-      "cat": "Football",
-      "status": "live",
-      "event": {
-        "name": "The - Golazo Show",
-        "category": "Football",
-        "type": "",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "teamA": "Golazo Show",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "teamB": "Golazo Show",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "startTimeIST": "2026-11-26 23:10:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PARAMOUNT+",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfwewesw54/out/v1/522359f03dd5411fa96d4fb84375f0df/cenc.mpd",
-          "api": "629217a2952c541bed541053bebb6e79:78329d9e16fd79edd93ff9f7f9c758e8"
-        },
-        {
-          "id": 2,
-          "title": "CBS SPORTS GOLAZO AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ]
-    },
-    {
-      "id": 1236,
-      "title": "New Zealand vs India",
-      "slug": "New-Zealand-vs-India",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "ICC World Test Championship",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "teamA": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamB": "India",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "startTimeIST": "2026-11-27 03:30:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "WILLOW - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
-          "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
-        },
-        {
-          "id": 2,
-          "title": "TNT SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "id": 3,
-          "title": "TAPMAD - AQ",
-          "type": "m3u8",
-          "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "api": ""
-        },
-        {
-          "id": 4,
-          "title": "WILLOW S2 - AQ",
-          "type": "mpd",
-          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
-          "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
-        },
-        {
-          "id": 5,
-          "title": "TEN SPORTS HD",
-          "type": "m3u8",
-          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "api": ""
-        },
-        {
-          "id": 6,
-          "title": "SONYLIV ENG - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "api": ""
-        },
-        {
-          "id": 7,
-          "title": "SONYLIV HIN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "api": ""
-        },
-        {
-          "id": 8,
-          "title": "SONYLIV TAM - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "api": ""
-        },
-        {
-          "id": 9,
-          "title": "SONYLIV TEL - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "api": ""
-        },
-        {
-          "id": 10,
-          "title": "SONYLIV KAN - AQ",
-          "type": "m3u8",
-          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 4007,
-      "title": "South Australia vs Victoria",
-      "slug": "South-Australia-vs-Victoria",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "Sheffield Shield",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11160/image/dark",
-        "teamA": "South Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187750/image",
-        "teamB": "Victoria",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187749/image",
-        "startTimeIST": "2026-11-27 05:30:00 IST",
-        "endTimeIST": "2026-11-27 12:30:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "PlayZ TV Live",
-          "type": "m3u8",
-          "link": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__PLCmgVLEuGcA9KHAyJ5DuxTcdvkMh57av3fGiwdpu6zsZ1Q8x6QcjityUzzrDHeER89HgpbehEe/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=C13952B7494F",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 3999,
-      "title": "Buffalo Bills vs Kansas City Chiefs",
-      "slug": "Buffalo-Bills-vs-Kansas-City-Chiefs",
-      "cat": "American football",
-      "status": "live",
-      "event": {
-        "name": "NFL",
-        "category": "American football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "teamA": "Buffalo Bills",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "teamB": "Kansas City Chiefs",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "startTimeIST": "2026-11-27 06:50:00 IST",
-        "endTimeIST": "2026-11-27 10:20:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "Sky Top Event- AQ",
-          "type": "mpd",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "id": 2,
-          "title": "TSN SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        }
-      ]
-    },
     {
       "id": 3931,
       "title": "Australia vs England",
       "slug": "Australia-vs-England",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "T20 International",
         "category": "Cricket",
@@ -208,14 +19,85 @@
         "startTimeIST": "2026-11-27 13:45:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd",
+          "api": "74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49"
+        },
+        {
+          "id": 2,
+          "title": "AUSTRALIA TV - AQ",
+          "type": "m3u8",
+          "link": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "FANCODE - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "id": 4,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "id": 5,
+          "title": "TAPMAD - AQ",
+          "type": "m3u8",
+          "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 6,
+          "title": "WILLOW S2 - AQ",
+          "type": "mpd",
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd",
+          "api": "74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49"
+        },
+        {
+          "id": 7,
+          "title": "FANCODE SD",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
+        },
+        {
+          "id": 8,
+          "title": "TAPMAD HD",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "api": ""
+        },
+        {
+          "id": 9,
+          "title": "TEN SPORTS HD",
+          "type": "m3u8",
+          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 10,
+          "title": "FANCODE [IND]",
+          "type": "m3u8",
+          "link": "https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 3993,
       "title": "Macarthur FC vs Melbourne City",
       "slug": "Macarthur-FC-vs-Melbourne-City",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "ended",
       "event": {
         "name": "A-League Men",
         "category": "Football",
@@ -228,14 +110,50 @@
         "startTimeIST": "2026-11-27 14:10:00 IST",
         "endTimeIST": "2026-11-27 16:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "id": 2,
+          "title": "SPORTDIGITAL FUSSBALL AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "id": 3,
+          "title": "SPOTV AQ",
+          "type": "mpd",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+          "api": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e"
+        },
+        {
+          "id": 4,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/b9149b1d-db70-42f9-a0b9-1581ad9ee25e.m3u8",
+          "api": ""
+        },
+        {
+          "id": 5,
+          "title": "FANCODE [IND]",
+          "type": "m3u8",
+          "link": "https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 3789,
       "title": "MotoGP",
       "slug": "MotoGP",
       "cat": "Motorsport",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "MotoGP",
         "category": "Motorsport",
@@ -248,14 +166,57 @@
         "startTimeIST": "2026-11-27 15:15:00 IST",
         "endTimeIST": ""
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "FANCODE - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "id": 2,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "id": 3,
+          "title": "SKY SPORTS MIX",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "id": 4,
+          "title": "MotoGP - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        },
+        {
+          "id": 5,
+          "title": "AUVIO SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/8dc11abc.isml/.mpd?t=2026-11-27T07:52:00.000",
+          "api": "e5cd31b4fefc41339a0cc7ce38efe365:3fa354cde4b3a320250387caacebc13e"
+        },
+        {
+          "id": 6,
+          "title": "FANCODE [IND]",
+          "type": "m3u8",
+          "link": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 3892,
       "title": "Bangladesh A vs Pakistan A",
       "slug": "Bangladesh-A-vs-Pakistan-A",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Asia Cup Rising Stars",
         "category": "Cricket",
@@ -268,6 +229,146 @@
         "startTimeIST": "2026-11-27 15:30:00 IST",
         "endTimeIST": ""
       },
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "api": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
+        },
+        {
+          "id": 2,
+          "title": "STARZPLAY FHD",
+          "type": "mpd",
+          "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "id": 3,
+          "title": "WILLOW S2 - AQ",
+          "type": "mpd",
+          "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "api": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
+        },
+        {
+          "id": 4,
+          "title": "SONYLIV ENG - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816046~acl=/*~id=20723742361426238784894684349112~hmac=635a5fc7b20eed1f7db4301562129f810d88787d75931312144c184d500aa982",
+          "api": ""
+        },
+        {
+          "id": 5,
+          "title": "TAMASHA AQ",
+          "type": "m3u8",
+          "link": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+          "api": ""
+        },
+        {
+          "id": 6,
+          "title": "TEN SPORTS HD",
+          "type": "m3u8",
+          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 7,
+          "title": "HD SERVER",
+          "type": "m3u8",
+          "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
+          "api": ""
+        }
+      ]
+    },
+    {
+      "id": 4094,
+      "title": "Perth Scorchers Women vs Hobart Hurricanes Women",
+      "slug": "Perth-Scorchers-Women-vs-Hobart-Hurricanes-Women",
+      "cat": "Cricket",
+      "status": "live",
+      "event": {
+        "name": "Women's Big Bash League",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamA": "Perth Scorchers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamB": "Hobart Hurricanes Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "startTimeIST": "2026-11-27 15:40:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlgenumfso/out/v1/f0833d9b7f834f9ea749036c5d4cf6bf/cenc.mpd",
+          "api": "f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f"
+        },
+        {
+          "id": 2,
+          "title": "AUSTRALIA TV - AQ",
+          "type": "m3u8",
+          "link": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2RxadF9FpzGS9Dd5p852XiFQWBe3xabS8yn1ioAEgNYQs2Tnu96CeqD64AEcQFt7q5MAUNKJ3QdV/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=358719EA7AF9",
+          "api": ""
+        },
+        {
+          "id": 3,
+          "title": "TAPMAD - AQ",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "api": ""
+        },
+        {
+          "id": 4,
+          "title": "WILLOW S2 - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlgenumfso/out/v1/f0833d9b7f834f9ea749036c5d4cf6bf/cenc.mpd",
+          "api": "f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f"
+        },
+        {
+          "id": 5,
+          "title": "WILLOW HD",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "id": 6,
+          "title": "TAPMAD HD",
+          "type": "m3u8",
+          "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "api": ""
+        },
+        {
+          "id": 7,
+          "title": "FANCODE [IND]",
+          "type": "m3u8",
+          "link": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8",
+          "api": ""
+        }
+      ]
+    },
+    {
+      "id": 4079,
+      "title": "Ireland 7s vs Belgium 7's",
+      "slug": "Ireland-7s-vs-Belgium-7's",
+      "cat": "Rugby",
+      "status": "live",
+      "event": {
+        "name": "Dubai SVNS Women's International Invitational",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "teamA": "Ireland 7s",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/291711/image",
+        "teamB": "Belgium 7's",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1316755/image",
+        "startTimeIST": "2026-11-27 16:30:00 IST",
+        "endTimeIST": "2026-11-27 19:30:00 IST"
+      },
       "streams": []
     },
     {
@@ -275,7 +376,7 @@
       "title": "Italia T10 2026",
       "slug": "Italia-T10-vs-Italia-T",
       "cat": "Cricket",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Italia T10 2026",
         "category": "Cricket",
@@ -313,26 +414,6 @@
       ]
     },
     {
-      "id": 4015,
-      "title": "Apolonia Fier U17 vs Elite Youth Academy U17",
-      "slug": "Apolonia-Fier-U17-vs-Elite-Youth-Academy-U17",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "U17 Abissnet Superiore",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/38703/image/dark",
-        "teamA": "Apolonia Fier U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1292380/image",
-        "teamB": "Elite Youth Academy U17",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1292387/image",
-        "startTimeIST": "2026-11-27 17:30:00 IST",
-        "endTimeIST": "2026-11-27 19:50:00 IST"
-      },
-      "streams": []
-    },
-    {
       "id": 4016,
       "title": "Al-Kholood vs Al-Khaleej",
       "slug": "Al-Kholood-vs-Al-Khaleej",
@@ -349,6 +430,26 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
         "startTimeIST": "2026-11-27 17:45:00 IST",
         "endTimeIST": "2026-11-27 20:05:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4104,
+      "title": "Azam FC vs Al Ahli Tripoli",
+      "slug": "Azam-FC-vs-Al-Ahli-Tripoli",
+      "cat": "Football",
+      "status": "upcoming",
+      "event": {
+        "name": "CAF Confederations Cup",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/1115/image/dark",
+        "teamA": "Azam FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
+        "teamB": "Al Ahli Tripoli",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/189124/image",
+        "startTimeIST": "2026-11-27 18:30:00 IST",
+        "endTimeIST": "2026-11-27 20:50:00 IST"
       },
       "streams": []
     },
@@ -409,6 +510,26 @@
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
         "startTimeIST": "2026-11-27 19:00:00 IST",
         "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 3896,
+      "title": "ONE FRIDAY FIGHTS 179",
+      "slug": "Petkhaokradong-Lukjaomaesaithong-vs-Vadzim-Shapiatsiuk",
+      "cat": "Mixed Martial Arts",
+      "status": "upcoming",
+      "event": {
+        "name": "ONE FRIDAY FIGHTS 179",
+        "category": "Mixed Martial Arts",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
+        "teamA": "ONE",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "teamB": "ONE",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "startTimeIST": "2026-11-27 19:00:00 IST",
+        "endTimeIST": "2026-11-27 22:30:00 IST"
       },
       "streams": []
     },
@@ -543,6 +664,26 @@
       "streams": []
     },
     {
+      "id": 4099,
+      "title": "Italy vs Czechia",
+      "slug": "Italy-vs-Czechia",
+      "cat": "Tennis",
+      "status": "upcoming",
+      "event": {
+        "name": "Davis Cup",
+        "category": "Tennis",
+        "type": "",
+        "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "teamA": "Italy",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamB": "Czechia",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image",
+        "startTimeIST": "2026-11-27 20:30:00 IST",
+        "endTimeIST": "2026-11-28 03:30:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 4022,
       "title": "Montenegro U17 vs Chile U17",
       "slug": "Montenegro-U17-vs-Chile-U17",
@@ -599,6 +740,26 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/22629/image",
         "startTimeIST": "2026-11-27 21:30:00 IST",
         "endTimeIST": "2026-11-27 23:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4041,
+      "title": "Fiji vs Italy",
+      "slug": "Fiji-vs-Italy",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Fiji",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
+        "teamB": "Italy",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7057/image",
+        "startTimeIST": "2026-11-27 22:10:00 IST",
+        "endTimeIST": "2026-11-28 01:10:00 IST"
       },
       "streams": []
     },
@@ -783,6 +944,172 @@
       "streams": []
     },
     {
+      "id": 4137,
+      "title": "Ireland vs Australia",
+      "slug": "Ireland-vs-Australia",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Ireland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4228/image",
+        "teamB": "Australia",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "startTimeIST": "2026-11-28 01:40:00 IST",
+        "endTimeIST": "2026-11-28 04:40:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4139,
+      "title": "Ireland vs Australia",
+      "slug": "Ireland-vs-Australia",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Ireland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4228/image",
+        "teamB": "Australia",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "startTimeIST": "2026-11-28 01:40:00 IST",
+        "endTimeIST": "2026-11-28 04:40:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 1236,
+      "title": "New Zealand vs India",
+      "slug": "New-Zealand-vs-India",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "ICC World Test Championship",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "teamA": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamB": "India",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "startTimeIST": "2026-11-28 03:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "WILLOW - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
+          "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
+        },
+        {
+          "id": 2,
+          "title": "PRIME ENGLISH",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sywaeenri3/out/v1/eefaa601dab34fefa7a8aedbb621d03d/cenc.mpd",
+          "api": "eda434d8c9bb747f728aa0c08f93421b:b8566e37aee2e9e527ce9b0e903212a6"
+        },
+        {
+          "id": 3,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "id": 4,
+          "title": "PRIME HINDI",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrqpeoa7vf/out/v1/16c2a2e928e84263861245a9c5eece30/cenc.mpd",
+          "api": "ad6498aabb85ee0ca2e9b2f0f7a1a255:008408e2bc9f263a167db636929cef73"
+        },
+        {
+          "id": 5,
+          "title": "PRIME TAMIL",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wzglv1xtre/out/v1/ce2b69c89f5547729c95f142ff4d4549/cenc.mpd",
+          "api": "71b1d275abf3a4b49807553810668ec6:c9a1357ede9b3d056719701d4edde85d"
+        },
+        {
+          "id": 6,
+          "title": "PRIME TELUGU",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hs1zdb5qph/out/v1/7d427476a3c3407ca1e2289167c25878/cenc.mpd",
+          "api": "b8484b0389ec5e0b3e420c4a88e269d7:6f513ab5b3f9c94d58e4efffb62a336c"
+        },
+        {
+          "id": 7,
+          "title": "PRIME KANNADA",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdtioq1iow/out/v1/65d8542872a945e786485e67534bcc81/cenc.mpd",
+          "api": "0d41bd6337d00cefb841c36f8c66292e:3d3a364cd7d670f07dc1a046705dac0e"
+        },
+        {
+          "id": 8,
+          "title": "TAPMAD - AQ",
+          "type": "m3u8",
+          "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 9,
+          "title": "WILLOW S2 - AQ",
+          "type": "mpd",
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd",
+          "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171"
+        },
+        {
+          "id": 10,
+          "title": "TEN SPORTS HD",
+          "type": "m3u8",
+          "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "api": ""
+        },
+        {
+          "id": 11,
+          "title": "SONYLIV ENG - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
+          "api": ""
+        },
+        {
+          "id": 12,
+          "title": "SONYLIV HIN - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
+          "api": ""
+        },
+        {
+          "id": 13,
+          "title": "SONYLIV TAM - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
+          "api": ""
+        },
+        {
+          "id": 14,
+          "title": "SONYLIV TEL - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
+          "api": ""
+        },
+        {
+          "id": 15,
+          "title": "SONYLIV KAN - AQ",
+          "type": "m3u8",
+          "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
+          "api": ""
+        }
+      ]
+    },
+    {
       "id": 4029,
       "title": "Columbus Crew vs Inter Miami CF",
       "slug": "Columbus-Crew-vs-Inter-Miami-CF",
@@ -819,6 +1146,86 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
         "startTimeIST": "2026-11-28 08:30:00 IST",
         "endTimeIST": "2026-11-28 10:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4096,
+      "title": "Melbourne Renegades Women vs Melbourne Stars Women",
+      "slug": "Melbourne-Renegades-Women-vs-Melbourne-Stars-Women",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "Women's Big Bash League",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamA": "Melbourne Renegades Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "teamB": "Melbourne Stars Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "startTimeIST": "2026-11-28 10:10:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 4097,
+      "title": "Sydney Thunder Women vs Sydney Sixers Women",
+      "slug": "Sydney-Thunder-Women-vs-Sydney-Sixers-Women",
+      "cat": "Cricket",
+      "status": "upcoming",
+      "event": {
+        "name": "Women's Big Bash League",
+        "category": "Cricket",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamA": "Sydney Thunder Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "teamB": "Sydney Sixers Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "startTimeIST": "2026-11-28 13:40:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 4043,
+      "title": "Ireland 7s vs Germany 7's",
+      "slug": "Ireland-7s-vs-Germany-7's",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Dubai SVNS Women's International Invitational",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "teamA": "Ireland 7s",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/291711/image",
+        "teamB": "Germany 7's",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1316754/image",
+        "startTimeIST": "2026-11-28 15:50:00 IST",
+        "endTimeIST": "2026-11-28 18:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4044,
+      "title": "Chameleons vs Scotty's Rugby Team",
+      "slug": "Chameleons-vs-Scotty's-Rugby-Team",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Dubai SVNS International Womens Open",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/40445/image/dark",
+        "teamA": "Chameleons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1317425/image",
+        "teamB": "Scotty's Rugby Team",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1317424/image",
+        "startTimeIST": "2026-11-28 16:10:00 IST",
+        "endTimeIST": "2026-11-28 19:10:00 IST"
       },
       "streams": []
     },
@@ -923,6 +1330,66 @@
       "streams": []
     },
     {
+      "id": 4138,
+      "title": "Wales vs Japan",
+      "slug": "Wales-vs-Japan",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Wales",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamB": "Japan",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "startTimeIST": "2026-11-28 18:40:00 IST",
+        "endTimeIST": "2026-11-28 21:40:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4140,
+      "title": "Wales vs Japan",
+      "slug": "Wales-vs-Japan",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Wales",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamB": "Japan",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "startTimeIST": "2026-11-28 18:40:00 IST",
+        "endTimeIST": "2026-11-28 21:40:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4036,
+      "title": "England vs New Zealand",
+      "slug": "England-vs-New-Zealand",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4226/image",
+        "teamB": "New Zealand",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "startTimeIST": "2026-11-28 22:10:00 IST",
+        "endTimeIST": "2026-11-29 01:10:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 1252,
       "title": "Ozcan vs Afakir",
       "slug": "Ozcan-vs-Afakir",
@@ -979,6 +1446,46 @@
         "teamBFlag": "https://rafinsider.com/wp-content/uploads/2026/06/cropped-raf-logo.png",
         "startTimeIST": "2026-11-29 06:30:00 IST",
         "endTimeIST": "2026-11-29 13:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4037,
+      "title": "Scotland vs Argentina",
+      "slug": "Scotland-vs-Argentina",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "Scotland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4230/image",
+        "teamB": "Argentina",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
+        "startTimeIST": "2026-11-29 18:40:00 IST",
+        "endTimeIST": "2026-11-29 21:40:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 4038,
+      "title": "South Africa vs France",
+      "slug": "South-Africa-vs-France",
+      "cat": "Rugby",
+      "status": "upcoming",
+      "event": {
+        "name": "Nations Championship",
+        "category": "Rugby",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "teamA": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4231/image",
+        "teamB": "France",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4224/image",
+        "startTimeIST": "2026-11-29 22:10:00 IST",
+        "endTimeIST": "2026-11-30 01:10:00 IST"
       },
       "streams": []
     },
@@ -1059,26 +1566,6 @@
         "teamBFlag": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg",
         "startTimeIST": "2026-12-04 00:30:00 IST",
         "endTimeIST": ""
-      },
-      "streams": []
-    },
-    {
-      "id": 3896,
-      "title": "ONE FRIDAY FIGHTS 179",
-      "slug": "Petkhaokradong-Lukjaomaesaithong-vs-Vadzim-Shapiatsiuk",
-      "cat": "Mixed Martial Arts",
-      "status": "upcoming",
-      "event": {
-        "name": "ONE FRIDAY FIGHTS 179",
-        "category": "Mixed Martial Arts",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
-        "teamA": "ONE",
-        "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "teamB": "ONE",
-        "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "startTimeIST": "2026-12-04 19:00:00 IST",
-        "endTimeIST": "2026-12-04 22:30:00 IST"
       },
       "streams": []
     },
