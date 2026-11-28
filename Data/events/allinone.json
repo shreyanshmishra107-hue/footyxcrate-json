@@ -1,48 +1,6 @@
 {
-  "last_updated": "29/11/2026, 12:18:18 am",
+  "last_updated": "29/11/2026, 12:20:57 am",
   "events": [
-    {
-      "id": 5524,
-      "title": "Great Britain vs Spain",
-      "slug": "Great-Britain-vs-Spain",
-      "cat": "Tennis",
-      "status": "live",
-      "event": {
-        "name": "Davis Cup",
-        "category": "Tennis",
-        "type": "",
-        "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-        "teamA": "Great Britain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
-        "teamB": "Spain",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-29 15:30:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "BEIN SPORTS",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "id": 2,
-          "title": "TENNIS TV DE AQ",
-          "type": "mpd",
-          "link": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
-          "api": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
-        },
-        {
-          "id": 3,
-          "title": "TSN SPORTS AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ]
-    },
     {
       "id": 4036,
       "title": "England vs New Zealand",
@@ -1640,7 +1598,7 @@
       "streams": []
     },
     {
-      "id": 6731,
+      "id": 6733,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -1660,7 +1618,7 @@
       "streams": []
     },
     {
-      "id": 6733,
+      "id": 6734,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -2058,6 +2016,48 @@
         "endTimeIST": "2026-12-25 02:30:00 IST"
       },
       "streams": []
+    },
+    {
+      "id": 5524,
+      "title": "Great Britain vs Spain",
+      "slug": "Great-Britain-vs-Spain",
+      "cat": "Tennis",
+      "status": "ended",
+      "event": {
+        "name": "Davis Cup",
+        "category": "Tennis",
+        "type": "",
+        "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "teamA": "Great Britain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
+        "teamB": "Spain",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "startTimeIST": "2026-11-28 20:30:00 IST",
+        "endTimeIST": "2026-11-29 00:18:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "BEIN SPORTS",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "id": 2,
+          "title": "TENNIS TV DE AQ",
+          "type": "mpd",
+          "link": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "api": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
+        },
+        {
+          "id": 3,
+          "title": "TSN SPORTS AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ]
     },
     {
       "id": 6678,
