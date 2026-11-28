@@ -1,5 +1,5 @@
 {
-  "last_updated": "29/11/2026, 12:15:48 am",
+  "last_updated": "29/11/2026, 12:18:18 am",
   "events": [
     {
       "id": 5524,
@@ -531,6 +531,55 @@
         "endTimeIST": "2026-11-29 04:30:00 IST"
       },
       "streams": []
+    },
+    {
+      "id": 6732,
+      "title": "UK Championship",
+      "slug": "UK-Championship",
+      "cat": "Snooker",
+      "status": "upcoming",
+      "event": {
+        "name": "UK Championship",
+        "category": "Snooker",
+        "type": "",
+        "logo": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
+        "teamA": "SNOOKER",
+        "teamAFlag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
+        "teamB": "SNOOKER",
+        "teamBFlag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
+        "startTimeIST": "2026-11-29 00:30:00 IST",
+        "endTimeIST": "2026-11-29 04:00:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "TNT SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "id": 2,
+          "title": "EUROSPORT EN - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+          "api": "8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae"
+        },
+        {
+          "id": 3,
+          "title": "EUROSPORT CZ - AQ",
+          "type": "mpd",
+          "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "id": 4,
+          "title": "EUROSPORT RU - AQ",
+          "type": "m3u8",
+          "link": "https://spovt.ru/bpk-tv/000002478/tve/index.m3u8",
+          "api": ""
+        }
+      ]
     },
     {
       "id": 4665,
@@ -1591,7 +1640,7 @@
       "streams": []
     },
     {
-      "id": 6729,
+      "id": 6731,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -1611,7 +1660,7 @@
       "streams": []
     },
     {
-      "id": 6731,
+      "id": 6733,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
