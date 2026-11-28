@@ -1,125 +1,6 @@
 {
-  "last_updated": "28/11/2026, 4:38:36 pm",
+  "last_updated": "29/11/2026, 12:05:31 am",
   "events": [
-    {
-      "id": 4097,
-      "title": "Sydney Thunder Women vs Sydney Sixers Women",
-      "slug": "Sydney-Thunder-Women-vs-Sydney-Sixers-Women",
-      "cat": "Cricket",
-      "status": "live",
-      "event": {
-        "name": "Women's Big Bash League",
-        "category": "Cricket",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "teamA": "Sydney Thunder Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "teamB": "Sydney Sixers Women",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "startTimeIST": "2026-11-28 13:40:00 IST",
-        "endTimeIST": ""
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "WILLOW - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd",
-          "api": "7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626"
-        },
-        {
-          "id": 2,
-          "title": "SKY CRICKET - AQ",
-          "type": "m3u8",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-          "api": ""
-        },
-        {
-          "id": 3,
-          "title": "WILLOW HD",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "id": 4,
-          "title": "TAPMAD - AQ",
-          "type": "m3u8",
-          "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "api": ""
-        },
-        {
-          "id": 5,
-          "title": "FANCODE [IND]",
-          "type": "m3u8",
-          "link": "https://in-mc-vod.fancode.com/mumbai/4250424_english_hls_5f98ce686243433_1ta-di_h264/index.m3u8",
-          "api": ""
-        }
-      ]
-    },
-    {
-      "id": 5535,
-      "title": "MotoGP",
-      "slug": "MotoGP",
-      "cat": "Motorsport",
-      "status": "live",
-      "event": {
-        "name": "MotoGP",
-        "category": "Motorsport",
-        "type": "",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
-        "teamA": "MotoGP",
-        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
-        "teamB": "MotoGP",
-        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
-        "startTimeIST": "2026-11-28 14:30:00 IST",
-        "endTimeIST": "2026-11-28 21:00:00 IST"
-      },
-      "streams": [
-        {
-          "id": 1,
-          "title": "FANCODE - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "id": 2,
-          "title": "TNT SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "id": 3,
-          "title": "SKY SPORTS MIX",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "id": 4,
-          "title": "MotoGP - AQ",
-          "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        },
-        {
-          "id": 5,
-          "title": "AUVIO SPORTS - AQ",
-          "type": "mpd",
-          "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/2ced309d.isml/.mpd?t=2026-11-28T07:33:00.000",
-          "api": "fc71795b0f134061b2d253d84147f8a5:464cf86817ec3437a1ece232e01955ba"
-        },
-        {
-          "id": 6,
-          "title": "FANCODE [IND]",
-          "type": "m3u8",
-          "link": "https://in-mc-vod.fancode.com/mumbai/139988_english_hls_eced0baf6984020_1ta-di_h264/index.m3u8",
-          "api": ""
-        }
-      ]
-    },
     {
       "id": 1884,
       "title": "International League T20",
@@ -177,333 +58,361 @@
       ]
     },
     {
-      "id": 5536,
-      "title": "Italia T10 2026",
-      "slug": "Italia-T10-vs-Italia-T",
-      "cat": "Cricket",
+      "id": 5524,
+      "title": "Great Britain vs Spain",
+      "slug": "Great-Britain-vs-Spain",
+      "cat": "Tennis",
       "status": "live",
       "event": {
-        "name": "Italia T10 2026",
-        "category": "Cricket",
+        "name": "Davis Cup",
+        "category": "Tennis",
         "type": "",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamA": "Italia T10",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamB": "Italia T10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "startTimeIST": "2026-11-28 16:30:00 IST",
-        "endTimeIST": "2026-11-28 22:30:00 IST"
+        "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "teamA": "Great Britain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
+        "teamB": "Spain",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "startTimeIST": "2026-11-28 20:30:00 IST",
+        "endTimeIST": "2026-11-29 15:30:00 IST"
       },
       "streams": [
         {
           "id": 1,
-          "title": "PLAYZ TV LIVE",
-          "type": "m3u8",
-          "link": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
-          "api": ""
+          "title": "BEIN SPORTS",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
         },
         {
           "id": 2,
-          "title": "UNBEATEN FHD",
+          "title": "TENNIS TV DE AQ",
           "type": "mpd",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "api": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+          "link": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "api": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
         },
         {
           "id": 3,
-          "title": "TAMASHA PRO AQ",
-          "type": "m3u8",
-          "link": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
-          "api": ""
+          "title": "TSN SPORTS AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
     {
-      "id": 4031,
-      "title": "Hertha BSC vs Karlsruher SC",
-      "slug": "Hertha-BSC-vs-Karlsruher-SC",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "2. Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "teamA": "Hertha BSC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamB": "Karlsruher SC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "startTimeIST": "2026-11-28 17:30:00 IST",
-        "endTimeIST": "2026-11-28 19:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4032,
-      "title": "Holstein Kiel vs 1. FC Kaiserslautern",
-      "slug": "Holstein-Kiel-vs-1.-FC-Kaiserslautern",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "2. Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "teamA": "Holstein Kiel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamB": "1. FC Kaiserslautern",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "startTimeIST": "2026-11-28 17:30:00 IST",
-        "endTimeIST": "2026-11-28 19:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4033,
-      "title": "SG Dynamo Dresden vs FC St. Pauli",
-      "slug": "SG-Dynamo-Dresden-vs-FC-St.-Pauli",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "2. Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "teamA": "SG Dynamo Dresden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "teamB": "FC St. Pauli",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-        "startTimeIST": "2026-11-28 17:30:00 IST",
-        "endTimeIST": "2026-11-28 19:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4638,
-      "title": "Al-Hazem vs Al-Nassr",
-      "slug": "Al-Hazem-vs-Al-Nassr",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Saudi Pro League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "teamA": "Al-Hazem",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-        "teamB": "Al-Nassr",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-        "startTimeIST": "2026-11-28 17:45:00 IST",
-        "endTimeIST": "2026-11-28 20:05:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4639,
-      "title": "Blackburn Rovers vs Charlton Athletic",
-      "slug": "Blackburn-Rovers-vs-Charlton-Athletic",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Blackburn Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "teamB": "Charlton Athletic",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "startTimeIST": "2026-11-28 18:00:00 IST",
-        "endTimeIST": "2026-11-28 20:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4640,
-      "title": "Lincoln City vs Wolverhampton",
-      "slug": "Lincoln-City-vs-Wolverhampton",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Lincoln City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-        "teamB": "Wolverhampton",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-        "startTimeIST": "2026-11-28 18:00:00 IST",
-        "endTimeIST": "2026-11-28 20:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4641,
-      "title": "Preston North End vs Norwich City",
-      "slug": "Preston-North-End-vs-Norwich-City",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Preston North End",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "teamB": "Norwich City",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-        "startTimeIST": "2026-11-28 18:00:00 IST",
-        "endTimeIST": "2026-11-28 20:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4013,
-      "title": "Real Betis vs Rayo Vallecano",
-      "slug": "Real-Betis-vs-Rayo-Vallecano",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "teamA": "Real Betis",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-        "teamB": "Rayo Vallecano",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "startTimeIST": "2026-11-28 18:30:00 IST",
-        "endTimeIST": "2026-11-28 20:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4232,
-      "title": "UD Las Palmas vs FC Andorra",
-      "slug": "UD-Las-Palmas-vs-FC-Andorra",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga 2",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "teamA": "UD Las Palmas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-        "teamB": "FC Andorra",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-        "startTimeIST": "2026-11-28 18:30:00 IST",
-        "endTimeIST": "2026-11-28 20:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4152,
-      "title": "Wales vs Japan",
-      "slug": "Wales-vs-Japan",
+      "id": 4036,
+      "title": "England vs New Zealand",
+      "slug": "England-vs-New-Zealand",
       "cat": "Rugby",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Nations Championship",
         "category": "Rugby",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "teamA": "Wales",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-        "teamB": "Japan",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "startTimeIST": "2026-11-28 18:40:00 IST",
-        "endTimeIST": "2026-11-28 21:40:00 IST"
+        "teamA": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4226/image",
+        "teamB": "New Zealand",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "startTimeIST": "2026-11-28 22:10:00 IST",
+        "endTimeIST": "2026-11-29 01:10:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "RUGBYPASS TV AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "api": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "id": 2,
+          "title": "STARZPLAY RUGBY AQ",
+          "type": "mpd",
+          "link": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "api": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ]
     },
     {
-      "id": 4642,
-      "title": "Chennaiyin FC vs Mumbai City FC",
-      "slug": "Chennaiyin-FC-vs-Mumbai-City-FC",
+      "id": 4178,
+      "title": "Torino vs Lazio",
+      "slug": "Torino-vs-Lazio",
       "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Indian Super League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-        "teamA": "Chennaiyin FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamB": "Mumbai City FC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
-        "startTimeIST": "2026-11-28 19:30:00 IST",
-        "endTimeIST": "2026-11-28 21:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4171,
-      "title": "Frosinone vs Parma",
-      "slug": "Frosinone-vs-Parma",
-      "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Serie A",
         "category": "Football",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "teamA": "Frosinone",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-        "teamB": "Parma",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-        "startTimeIST": "2026-11-28 19:30:00 IST",
-        "endTimeIST": "2026-11-28 21:50:00 IST"
+        "teamA": "Torino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+        "teamB": "Lazio",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+        "startTimeIST": "2026-11-28 22:30:00 IST",
+        "endTimeIST": "2026-11-29 00:50:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "beIN SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "id": 2,
+          "title": "Sport CZ - AQ",
+          "type": "mpd",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ]
     },
     {
-      "id": 4643,
-      "title": "Al-Ettifaq vs Al-Hilal",
-      "slug": "Al-Ettifaq-vs-Al-Hilal",
+      "id": 4660,
+      "title": "Al-Ahli vs Al-Taawoun",
+      "slug": "Al-Ahli-vs-Al-Taawoun",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Saudi Pro League",
         "category": "Football",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "teamA": "Al-Ettifaq",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-        "teamB": "Al-Hilal",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "startTimeIST": "2026-11-28 19:50:00 IST",
-        "endTimeIST": "2026-11-28 22:10:00 IST"
+        "teamA": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "teamB": "Al-Taawoun",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "DAZN SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nu9lmcfehr/out/v1/a64019ce0dec406a8cb5887d9cf4c656/cenc.mpd",
+          "api": "fa97cd41f480c64d263549038b855fd2:bd9ab8735a2ac117c4f77d9862510d8c"
+        }
+      ]
     },
     {
-      "id": 4200,
-      "title": "1. FSV Mainz 05 vs 1. FC Union Berlin",
-      "slug": "1.-FSV-Mainz-05-vs-1.-FC-Union-Berlin",
+      "id": 4661,
+      "title": "Charlotte FC vs Chicago Fire",
+      "slug": "Charlotte-FC-vs-Chicago-Fire",
       "cat": "Football",
-      "status": "upcoming",
+      "status": "live",
+      "event": {
+        "name": "MLS",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "teamA": "Charlotte FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+        "teamB": "Chicago Fire",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "SD STREAM",
+          "type": "m3u8",
+          "link": "https://www.rtmpcdn.com/live/6bb289ec-5111-4049-8994-590f323f1825.m3u8",
+          "api": ""
+        }
+      ]
+    },
+    {
+      "id": 4179,
+      "title": "Eibar vs Burgos Club de Fútbol",
+      "slug": "Eibar-vs-Burgos-Club-de-Fútbol",
+      "cat": "Football",
+      "status": "live",
+      "event": {
+        "name": "LaLiga 2",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "teamA": "Eibar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+        "teamB": "Burgos Club de Fútbol",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "LaLiga Hypermotion",
+          "type": "mpd",
+          "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ]
+    },
+    {
+      "id": 6540,
+      "title": "Elche vs Atlético Madrid",
+      "slug": "Elche-vs-Atlético-Madrid",
+      "cat": "Football",
+      "status": "live",
+      "event": {
+        "name": "LaLiga",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "teamA": "Elche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "teamB": "Atlético Madrid",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "beIN SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "id": 2,
+          "title": "PREMIER SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ]
+    },
+    {
+      "id": 4180,
+      "title": "Ipswich Town vs Aston Villa",
+      "slug": "Ipswich-Town-vs-Aston-Villa",
+      "cat": "Football",
+      "status": "live",
+      "event": {
+        "name": "Premier League",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamA": "Ipswich Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+        "teamB": "Aston Villa",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "SKY SPORTS PL - AQ",
+          "type": "m3u8",
+          "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
+          "api": ""
+        }
+      ]
+    },
+    {
+      "id": 6541,
+      "title": "VfB Stuttgart vs Eintracht Frankfurt",
+      "slug": "VfB-Stuttgart-vs-Eintracht-Frankfurt",
+      "cat": "Football",
+      "status": "live",
       "event": {
         "name": "Bundesliga",
         "category": "Football",
         "type": "",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "teamA": "1. FSV Mainz 05",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "teamB": "1. FC Union Berlin",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-        "startTimeIST": "2026-11-28 20:00:00 IST",
-        "endTimeIST": "2026-11-28 22:20:00 IST"
+        "teamA": "VfB Stuttgart",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+        "teamB": "Eintracht Frankfurt",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+        "startTimeIST": "2026-11-28 23:00:00 IST",
+        "endTimeIST": "2026-11-29 01:20:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "Sky Top Event- AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ]
+    },
+    {
+      "id": 4662,
+      "title": "Motherwell vs Hibernian",
+      "slug": "Motherwell-vs-Hibernian",
+      "cat": "Football",
+      "status": "live",
+      "event": {
+        "name": "Scottish Premiership",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "teamA": "Motherwell",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+        "teamB": "Hibernian",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+        "startTimeIST": "2026-11-28 23:15:00 IST",
+        "endTimeIST": "2026-11-29 01:35:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "PREMIER SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "id": 2,
+          "title": "SPORTDIGITAL FUSSBALL 2 AQ",
+          "type": "m3u8",
+          "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8",
+          "api": ""
+        }
+      ]
+    },
+    {
+      "id": 4663,
+      "title": "PSV Eindhoven vs Go Ahead Eagles",
+      "slug": "PSV-Eindhoven-vs-Go-Ahead-Eagles",
+      "cat": "Football",
+      "status": "live",
+      "event": {
+        "name": "VriendenLoterij Eredivisie",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "teamA": "PSV Eindhoven",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+        "teamB": "Go Ahead Eagles",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "startTimeIST": "2026-11-28 23:15:00 IST",
+        "endTimeIST": "2026-11-29 01:35:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "SPORTDIGITAL FUSSBALL - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
     },
     {
       "id": 3790,
       "title": "Formula 1",
       "slug": "Formula-1-vs-Formula",
       "cat": "Motorsport",
-      "status": "upcoming",
+      "status": "live",
       "event": {
         "name": "Formula 1",
         "category": "Motorsport",
@@ -513,7 +422,7 @@
         "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
         "teamB": "Formula 1",
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
-        "startTimeIST": "2026-11-28 20:00:00 IST",
+        "startTimeIST": "2026-11-28 23:30:00 IST",
         "endTimeIST": ""
       },
       "streams": [
@@ -604,624 +513,32 @@
       ]
     },
     {
-      "id": 4644,
-      "title": "Aberdeen vs Dundee FC",
-      "slug": "Aberdeen-vs-Dundee-FC",
-      "cat": "Football",
-      "status": "upcoming",
+      "id": 1253,
+      "title": "KABAYEL vs HYSA",
+      "slug": "KABAYEL-vs-HYSA",
+      "cat": "Boxing",
+      "status": "live",
       "event": {
-        "name": "Scottish Premiership",
-        "category": "Football",
+        "name": "QUEENSBERRY",
+        "category": "Boxing",
         "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "teamA": "Aberdeen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2355/image",
-        "teamB": "Dundee FC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4645,
-      "title": "Birmingham City vs Bolton Wanderers",
-      "slug": "Birmingham-City-vs-Bolton-Wanderers",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Birmingham City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-        "teamB": "Bolton Wanderers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4646,
-      "title": "Bodø/Glimt vs KFUM Oslo",
-      "slug": "Bodø-Glimt-vs-KFUM-Oslo",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Eliteserien",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/20/image/dark",
-        "teamA": "Bodø/Glimt",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/656/image",
-        "teamB": "KFUM Oslo",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/786/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4647,
-      "title": "Derby County vs Watford",
-      "slug": "Derby-County-vs-Watford",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Derby County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-        "teamB": "Watford",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4648,
-      "title": "Dundee United vs St. Johnstone",
-      "slug": "Dundee-United-vs-St.-Johnstone",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Scottish Premiership",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "teamA": "Dundee United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-        "teamB": "St. Johnstone",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 5524,
-      "title": "Great Britain vs Spain",
-      "slug": "Great-Britain-vs-Spain",
-      "cat": "Tennis",
-      "status": "upcoming",
-      "event": {
-        "name": "Davis Cup",
-        "category": "Tennis",
-        "type": "",
-        "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-        "teamA": "Great Britain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
-        "teamB": "Spain",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-29 15:30:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4172,
-      "title": "Leeds United vs Coventry City",
-      "slug": "Leeds-United-vs-Coventry-City",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Premier League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamA": "Leeds United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-        "teamB": "Coventry City",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4173,
-      "title": "Manchester United vs Brentford",
-      "slug": "Manchester-United-vs-Brentford",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Premier League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamA": "Manchester United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-        "teamB": "Brentford",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4649,
-      "title": "Millwall vs Burnley",
-      "slug": "Millwall-vs-Burnley",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Millwall",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-        "teamB": "Burnley",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4650,
-      "title": "Queens Park Rangers vs Sheffield United",
-      "slug": "Queens-Park-Rangers-vs-Sheffield-United",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Queens Park Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "teamB": "Sheffield United",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4651,
-      "title": "Rangers vs Falkirk FC",
-      "slug": "Rangers-vs-Falkirk-FC",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Scottish Premiership",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "teamA": "Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-        "teamB": "Falkirk FC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4652,
-      "title": "St. Mirren vs Kilmarnock",
-      "slug": "St.-Mirren-vs-Kilmarnock",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Scottish Premiership",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "teamA": "St. Mirren",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
-        "teamB": "Kilmarnock",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2347/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4653,
-      "title": "West Bromwich Albion vs Bristol City",
-      "slug": "West-Bromwich-Albion-vs-Bristol-City",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "West Bromwich Albion",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
-        "teamB": "Bristol City",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4654,
-      "title": "West Ham United vs Stoke City",
-      "slug": "West-Ham-United-vs-Stoke-City",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "West Ham United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-        "teamB": "Stoke City",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4655,
-      "title": "Wrexham vs Portsmouth",
-      "slug": "Wrexham-vs-Portsmouth",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Championship",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "teamA": "Wrexham",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-        "teamB": "Portsmouth",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
-        "startTimeIST": "2026-11-28 20:30:00 IST",
-        "endTimeIST": "2026-11-28 22:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4174,
-      "title": "Albacete Balompié vs CD Tenerife",
-      "slug": "Albacete-Balompié-vs-CD-Tenerife",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga 2",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "teamA": "Albacete Balompié",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamB": "CD Tenerife",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "startTimeIST": "2026-11-28 20:45:00 IST",
-        "endTimeIST": "2026-11-28 23:05:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4175,
-      "title": "Málaga CF vs Athletic Club",
-      "slug": "Málaga-CF-vs-Athletic-Club",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "teamA": "Málaga CF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-        "teamB": "Athletic Club",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-        "startTimeIST": "2026-11-28 20:45:00 IST",
-        "endTimeIST": "2026-11-28 23:05:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4656,
-      "title": "Excelsior vs SC Telstar",
-      "slug": "Excelsior-vs-SC-Telstar",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "VriendenLoterij Eredivisie",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "teamA": "Excelsior",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "teamB": "SC Telstar",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-        "startTimeIST": "2026-11-28 21:00:00 IST",
-        "endTimeIST": "2026-11-28 23:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4657,
-      "title": "FC Arouca vs Rio Ave",
-      "slug": "FC-Arouca-vs-Rio-Ave",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Liga Portugal Betclic",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "teamA": "FC Arouca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-        "teamB": "Rio Ave",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-        "startTimeIST": "2026-11-28 21:00:00 IST",
-        "endTimeIST": "2026-11-28 23:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4658,
-      "title": "Moreirense vs Santa Clara",
-      "slug": "Moreirense-vs-Santa-Clara",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Liga Portugal Betclic",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "teamA": "Moreirense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-        "teamB": "Santa Clara",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-        "startTimeIST": "2026-11-28 21:00:00 IST",
-        "endTimeIST": "2026-11-28 23:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 5996,
-      "title": "Angers vs RC Lens",
-      "slug": "Angers-vs-RC-Lens",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Angers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-        "teamB": "RC Lens",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-        "startTimeIST": "2026-11-28 21:45:00 IST",
-        "endTimeIST": "2026-11-29 00:05:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6005,
-      "title": "Angers vs RC Lens",
-      "slug": "Angers-vs-RC-Lens",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Angers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-        "teamB": "RC Lens",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-        "startTimeIST": "2026-11-28 21:45:00 IST",
-        "endTimeIST": "2026-11-29 00:05:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4036,
-      "title": "England vs New Zealand",
-      "slug": "England-vs-New-Zealand",
-      "cat": "Rugby",
-      "status": "upcoming",
-      "event": {
-        "name": "Nations Championship",
-        "category": "Rugby",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "teamA": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4226/image",
-        "teamB": "New Zealand",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
-        "startTimeIST": "2026-11-28 22:10:00 IST",
-        "endTimeIST": "2026-11-29 01:10:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4178,
-      "title": "Torino vs Lazio",
-      "slug": "Torino-vs-Lazio",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Serie A",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "teamA": "Torino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-        "teamB": "Lazio",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
-        "startTimeIST": "2026-11-28 22:30:00 IST",
-        "endTimeIST": "2026-11-29 00:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4660,
-      "title": "Al-Ahli vs Al-Taawoun",
-      "slug": "Al-Ahli-vs-Al-Taawoun",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Saudi Pro League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "teamA": "Al-Ahli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "teamB": "Al-Taawoun",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-        "startTimeIST": "2026-11-28 23:00:00 IST",
-        "endTimeIST": "2026-11-29 01:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4661,
-      "title": "Charlotte FC vs Chicago Fire",
-      "slug": "Charlotte-FC-vs-Chicago-Fire",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "MLS",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "teamA": "Charlotte FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
-        "teamB": "Chicago Fire",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-        "startTimeIST": "2026-11-28 23:00:00 IST",
-        "endTimeIST": "2026-11-29 01:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4179,
-      "title": "Eibar vs Burgos Club de Fútbol",
-      "slug": "Eibar-vs-Burgos-Club-de-Fútbol",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga 2",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "teamA": "Eibar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-        "teamB": "Burgos Club de Fútbol",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-        "startTimeIST": "2026-11-28 23:00:00 IST",
-        "endTimeIST": "2026-11-29 01:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4180,
-      "title": "Ipswich Town vs Aston Villa",
-      "slug": "Ipswich-Town-vs-Aston-Villa",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Premier League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamA": "Ipswich Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
-        "teamB": "Aston Villa",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-        "startTimeIST": "2026-11-28 23:00:00 IST",
-        "endTimeIST": "2026-11-29 01:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4662,
-      "title": "Motherwell vs Hibernian",
-      "slug": "Motherwell-vs-Hibernian",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Scottish Premiership",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "teamA": "Motherwell",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-        "teamB": "Hibernian",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-        "startTimeIST": "2026-11-28 23:15:00 IST",
-        "endTimeIST": "2026-11-29 01:35:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4663,
-      "title": "PSV Eindhoven vs Go Ahead Eagles",
-      "slug": "PSV-Eindhoven-vs-Go-Ahead-Eagles",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "VriendenLoterij Eredivisie",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "teamA": "PSV Eindhoven",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-        "teamB": "Go Ahead Eagles",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "startTimeIST": "2026-11-28 23:15:00 IST",
-        "endTimeIST": "2026-11-29 01:35:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4664,
-      "title": "Académico Viseu FC vs FC Alverca",
-      "slug": "Académico-Viseu-FC-vs-FC-Alverca",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Liga Portugal Betclic",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "teamA": "Académico Viseu FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-        "teamB": "FC Alverca",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+        "logo": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
+        "teamA": "KABAYEL",
+        "teamAFlag": "https://yt3.googleusercontent.com/ZDxjZ8h2wr4lmRcY5_BAnGobfigOkms214VijvBGpgp_7Pds3Jf2yPQm5BbuEdczp6woAbsxSA=s900-c-k-c0x00ffffff-no-rj",
+        "teamB": "HYSA",
+        "teamBFlag": "https://yt3.googleusercontent.com/ZDxjZ8h2wr4lmRcY5_BAnGobfigOkms214VijvBGpgp_7Pds3Jf2yPQm5BbuEdczp6woAbsxSA=s900-c-k-c0x00ffffff-no-rj",
         "startTimeIST": "2026-11-28 23:30:00 IST",
-        "endTimeIST": "2026-11-29 01:50:00 IST"
+        "endTimeIST": "2026-11-29 10:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "DAZN AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8w8dsk18o/out/v1/5b80a7c32b38459d9042d06347c07706/cenc.mpd?",
+          "api": "d2acec7255df9907e1578e94183ed352:4391cf6824b5a556a7571cee7f238649"
+        }
+      ]
     },
     {
       "id": 1252,
@@ -1241,7 +558,15 @@
         "startTimeIST": "2026-11-29 00:30:00 IST",
         "endTimeIST": "2026-11-29 07:30:00 IST"
       },
-      "streams": []
+      "streams": [
+        {
+          "id": 1,
+          "title": "GLORY",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7hggjh4lik/out/v1/59001e970ee042d3808eca86ca255310/cenc.mpd",
+          "api": "1647b6ecdbd39db5ad18bbbb2287814e:2c18fd2e15cb13c931600e378ab17aa2"
+        }
+      ]
     },
     {
       "id": 4665,
@@ -1304,7 +629,7 @@
       "streams": []
     },
     {
-      "id": 5997,
+      "id": 6542,
       "title": "Le Mans vs LOSC Lille",
       "slug": "Le-Mans-vs-LOSC-Lille",
       "cat": "Football",
@@ -1324,27 +649,7 @@
       "streams": []
     },
     {
-      "id": 6006,
-      "title": "Le Mans vs LOSC Lille",
-      "slug": "Le-Mans-vs-LOSC-Lille",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Le Mans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-        "teamB": "LOSC Lille",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-        "startTimeIST": "2026-11-29 01:15:00 IST",
-        "endTimeIST": "2026-11-29 03:35:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 5998,
+      "id": 6547,
       "title": "OGC Nice vs Troyes",
       "slug": "OGC-Nice-vs-Troyes",
       "cat": "Football",
@@ -1364,47 +669,7 @@
       "streams": []
     },
     {
-      "id": 6007,
-      "title": "OGC Nice vs Troyes",
-      "slug": "OGC-Nice-vs-Troyes",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "OGC Nice",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-        "teamB": "Troyes",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
-        "startTimeIST": "2026-11-29 01:15:00 IST",
-        "endTimeIST": "2026-11-29 03:35:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 5999,
-      "title": "Paris Saint-Germain vs Lorient",
-      "slug": "Paris-Saint-Germain-vs-Lorient",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Ligue 1",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "teamA": "Paris Saint-Germain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-        "teamB": "Lorient",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-        "startTimeIST": "2026-11-29 01:15:00 IST",
-        "endTimeIST": "2026-11-29 03:35:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6008,
+      "id": 6544,
       "title": "Paris Saint-Germain vs Lorient",
       "slug": "Paris-Saint-Germain-vs-Lorient",
       "cat": "Football",
@@ -1484,6 +749,26 @@
       "streams": []
     },
     {
+      "id": 6552,
+      "title": "Vegas Golden Knights vs Montréal Canadiens",
+      "slug": "Vegas-Golden-Knights-vs-Montréal-Canadiens",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Vegas Golden Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamB": "Montréal Canadiens",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "startTimeIST": "2026-11-29 02:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 4671,
       "title": "Philadelphia Union vs New England Revolution",
       "slug": "Philadelphia-Union-vs-New-England-Revolution",
@@ -1500,26 +785,6 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2511/image",
         "startTimeIST": "2026-11-29 03:00:00 IST",
         "endTimeIST": "2026-11-29 05:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 1253,
-      "title": "KABAYEL vs HYSA",
-      "slug": "KABAYEL-vs-HYSA",
-      "cat": "Boxing",
-      "status": "upcoming",
-      "event": {
-        "name": "QUEENSBERRY",
-        "category": "Boxing",
-        "type": "",
-        "logo": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
-        "teamA": "KABAYEL",
-        "teamAFlag": "https://yt3.googleusercontent.com/ZDxjZ8h2wr4lmRcY5_BAnGobfigOkms214VijvBGpgp_7Pds3Jf2yPQm5BbuEdczp6woAbsxSA=s900-c-k-c0x00ffffff-no-rj",
-        "teamB": "HYSA",
-        "teamBFlag": "https://yt3.googleusercontent.com/ZDxjZ8h2wr4lmRcY5_BAnGobfigOkms214VijvBGpgp_7Pds3Jf2yPQm5BbuEdczp6woAbsxSA=s900-c-k-c0x00ffffff-no-rj",
-        "startTimeIST": "2026-11-29 03:30:00 IST",
-        "endTimeIST": "2026-11-29 10:30:00 IST"
       },
       "streams": []
     },
@@ -1635,6 +900,46 @@
       "streams": []
     },
     {
+      "id": 6553,
+      "title": "Charlotte Hornets vs Brooklyn Nets",
+      "slug": "Charlotte-Hornets-vs-Brooklyn-Nets",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Charlotte Hornets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamB": "Brooklyn Nets",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "startTimeIST": "2026-11-29 04:30:00 IST",
+        "endTimeIST": "2026-11-29 07:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 6554,
+      "title": "Florida Panthers vs Tampa Bay Lightning",
+      "slug": "Florida-Panthers-vs-Tampa-Bay-Lightning",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "teamB": "Tampa Bay Lightning",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "startTimeIST": "2026-11-29 04:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 4672,
       "title": "FC Cincinnati vs Nashville SC",
       "slug": "FC-Cincinnati-vs-Nashville-SC",
@@ -1675,6 +980,146 @@
       "streams": []
     },
     {
+      "id": 6555,
+      "title": "Carolina Hurricanes vs Ottawa Senators",
+      "slug": "Carolina-Hurricanes-vs-Ottawa-Senators",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Carolina Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamB": "Ottawa Senators",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6556,
+      "title": "Detroit Red Wings vs Nashville Predators",
+      "slug": "Detroit-Red-Wings-vs-Nashville-Predators",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamB": "Nashville Predators",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6557,
+      "title": "New Jersey Devils vs Winnipeg Jets",
+      "slug": "New-Jersey-Devils-vs-Winnipeg-Jets",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "New Jersey Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamB": "Winnipeg Jets",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6558,
+      "title": "New York Rangers vs Calgary Flames",
+      "slug": "New-York-Rangers-vs-Calgary-Flames",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamB": "Calgary Flames",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6559,
+      "title": "Pittsburgh Penguins vs Toronto Maple Leafs",
+      "slug": "Pittsburgh-Penguins-vs-Toronto-Maple-Leafs",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "teamB": "Toronto Maple Leafs",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6560,
+      "title": "St. Louis Blues vs Washington Capitals",
+      "slug": "St.-Louis-Blues-vs-Washington-Capitals",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "teamB": "Washington Capitals",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "startTimeIST": "2026-11-29 05:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6561,
+      "title": "Philadelphia Flyers vs New York Islanders",
+      "slug": "Philadelphia-Flyers-vs-New-York-Islanders",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "teamB": "New York Islanders",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "startTimeIST": "2026-11-29 06:00:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 5500,
       "title": "Atlas FC vs CD Toluca",
       "slug": "Atlas-FC-vs-CD-Toluca",
@@ -1691,6 +1136,46 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
         "startTimeIST": "2026-11-29 06:30:00 IST",
         "endTimeIST": "2026-11-29 08:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 6562,
+      "title": "Chicago Bulls vs Indiana Pacers",
+      "slug": "Chicago-Bulls-vs-Indiana-Pacers",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Chicago Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "teamB": "Indiana Pacers",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "startTimeIST": "2026-11-29 06:30:00 IST",
+        "endTimeIST": "2026-11-29 09:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 6563,
+      "title": "Dallas Stars vs Utah Mammoth",
+      "slug": "Dallas-Stars-vs-Utah-Mammoth",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "teamB": "Utah Mammoth",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "startTimeIST": "2026-11-29 06:30:00 IST",
+        "endTimeIST": ""
       },
       "streams": []
     },
@@ -1715,6 +1200,46 @@
       "streams": []
     },
     {
+      "id": 6564,
+      "title": "Milwaukee Bucks vs Oklahoma City Thunder",
+      "slug": "Milwaukee-Bucks-vs-Oklahoma-City-Thunder",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Milwaukee Bucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "teamB": "Oklahoma City Thunder",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "startTimeIST": "2026-11-29 06:30:00 IST",
+        "endTimeIST": "2026-11-29 09:30:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 6565,
+      "title": "Houston Rockets vs Philadelphia 76ers",
+      "slug": "Houston-Rockets-vs-Philadelphia-76ers",
+      "cat": "Basketball",
+      "status": "upcoming",
+      "event": {
+        "name": "NBA",
+        "category": "Basketball",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "teamB": "Philadelphia 76ers",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "startTimeIST": "2026-11-29 07:00:00 IST",
+        "endTimeIST": "2026-11-29 10:00:00 IST"
+      },
+      "streams": []
+    },
+    {
       "id": 4674,
       "title": "Los Angeles FC vs St.Louis City",
       "slug": "Los-Angeles-FC-vs-St.Louis-City",
@@ -1735,6 +1260,46 @@
       "streams": []
     },
     {
+      "id": 6566,
+      "title": "Colorado Avalanche vs San Jose Sharks",
+      "slug": "Colorado-Avalanche-vs-San-Jose-Sharks",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Colorado Avalanche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "teamB": "San Jose Sharks",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "startTimeIST": "2026-11-29 07:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
+      "id": 6567,
+      "title": "Los Angeles Kings vs Anaheim Ducks",
+      "slug": "Los-Angeles-Kings-vs-Anaheim-Ducks",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Los Angeles Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "teamB": "Anaheim Ducks",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "startTimeIST": "2026-11-29 07:30:00 IST",
+        "endTimeIST": ""
+      },
+      "streams": []
+    },
+    {
       "id": 4675,
       "title": "Wellington Phoenix vs Adelaide United",
       "slug": "Wellington-Phoenix-vs-Adelaide-United",
@@ -1751,6 +1316,26 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
         "startTimeIST": "2026-11-29 07:30:00 IST",
         "endTimeIST": "2026-11-29 09:50:00 IST"
+      },
+      "streams": []
+    },
+    {
+      "id": 6568,
+      "title": "Seattle Kraken vs Edmonton Oilers",
+      "slug": "Seattle-Kraken-vs-Edmonton-Oilers",
+      "cat": "Hockey",
+      "status": "upcoming",
+      "event": {
+        "name": "NHL",
+        "category": "Hockey",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamA": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamB": "Edmonton Oilers",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "startTimeIST": "2026-11-29 08:30:00 IST",
+        "endTimeIST": ""
       },
       "streams": []
     },
@@ -1906,7 +1491,7 @@
       "streams": []
     },
     {
-      "id": 6000,
+      "id": 6531,
       "title": "Udinese vs Fiorentina",
       "slug": "Udinese-vs-Fiorentina",
       "cat": "Football",
@@ -1926,47 +1511,7 @@
       "streams": []
     },
     {
-      "id": 6009,
-      "title": "Udinese vs Fiorentina",
-      "slug": "Udinese-vs-Fiorentina",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Serie A",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "teamA": "Udinese",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-        "teamB": "Fiorentina",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-        "startTimeIST": "2026-11-29 17:00:00 IST",
-        "endTimeIST": "2026-11-29 19:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6001,
-      "title": "Everton vs Liverpool FC",
-      "slug": "Everton-vs-Liverpool-FC",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "Premier League",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamA": "Everton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-        "teamB": "Liverpool FC",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-        "startTimeIST": "2026-11-29 17:30:00 IST",
-        "endTimeIST": "2026-11-29 19:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6010,
+      "id": 6532,
       "title": "Everton vs Liverpool FC",
       "slug": "Everton-vs-Liverpool-FC",
       "cat": "Football",
@@ -2006,7 +1551,7 @@
       "streams": []
     },
     {
-      "id": 6002,
+      "id": 6675,
       "title": "1. FC Magdeburg vs Energie Cottbus",
       "slug": "1.-FC-Magdeburg-vs-Energie-Cottbus",
       "cat": "Football",
@@ -2026,27 +1571,7 @@
       "streams": []
     },
     {
-      "id": 6011,
-      "title": "1. FC Magdeburg vs Energie Cottbus",
-      "slug": "1.-FC-Magdeburg-vs-Energie-Cottbus",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "2. Bundesliga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "teamA": "1. FC Magdeburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-        "teamB": "Energie Cottbus",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "startTimeIST": "2026-11-29 18:00:00 IST",
-        "endTimeIST": "2026-11-29 20:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6003,
+      "id": 6726,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -2066,7 +1591,7 @@
       "streams": []
     },
     {
-      "id": 6012,
+      "id": 6727,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -2102,66 +1627,6 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
         "startTimeIST": "2026-11-29 18:00:00 IST",
         "endTimeIST": "2026-11-29 20:20:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 4192,
-      "title": "Granada vs AD Ceuta",
-      "slug": "Granada-vs-AD-Ceuta",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga 2",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "teamA": "Granada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-        "teamB": "AD Ceuta",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-        "startTimeIST": "2026-11-29 18:30:00 IST",
-        "endTimeIST": "2026-11-29 20:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6004,
-      "title": "Valencia vs Osasuna",
-      "slug": "Valencia-vs-Osasuna",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "teamA": "Valencia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-        "teamB": "Osasuna",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-        "startTimeIST": "2026-11-29 18:30:00 IST",
-        "endTimeIST": "2026-11-29 20:50:00 IST"
-      },
-      "streams": []
-    },
-    {
-      "id": 6013,
-      "title": "Valencia vs Osasuna",
-      "slug": "Valencia-vs-Osasuna",
-      "cat": "Football",
-      "status": "upcoming",
-      "event": {
-        "name": "LaLiga",
-        "category": "Football",
-        "type": "",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "teamA": "Valencia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-        "teamB": "Osasuna",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-        "startTimeIST": "2026-11-29 18:30:00 IST",
-        "endTimeIST": "2026-11-29 20:50:00 IST"
       },
       "streams": []
     },
@@ -2524,6 +1989,48 @@
         "endTimeIST": "2026-12-25 02:30:00 IST"
       },
       "streams": []
+    },
+    {
+      "id": 6678,
+      "title": "Angers vs RC Lens",
+      "slug": "Angers-vs-RC-Lens",
+      "cat": "Football",
+      "status": "ended",
+      "event": {
+        "name": "Ligue 1",
+        "category": "Football",
+        "type": "",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamA": "Angers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+        "teamB": "RC Lens",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "startTimeIST": "2026-11-28 21:45:00 IST",
+        "endTimeIST": "2026-11-29 00:05:00 IST"
+      },
+      "streams": [
+        {
+          "id": 1,
+          "title": "DAZN SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ovc9ckljg8/out/v1/76a556891e9447309205972ad4ae6d48/cenc.mpd",
+          "api": "f6ee12913c97cb9fe2941ba8b81c5bab:995b153c1d7c8c486c0116e5b45e4a0d"
+        },
+        {
+          "id": 2,
+          "title": "beIN SPORTS - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "id": 3,
+          "title": "beIN SPANISH - AQ",
+          "type": "mpd",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        }
+      ]
     }
   ]
 }
