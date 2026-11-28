@@ -1,5 +1,5 @@
 {
-  "last_updated": "29/11/2026, 12:13:08 am",
+  "last_updated": "29/11/2026, 12:15:48 am",
   "events": [
     {
       "id": 5524,
@@ -511,6 +511,26 @@
           "api": "1647b6ecdbd39db5ad18bbbb2287814e:2c18fd2e15cb13c931600e378ab17aa2"
         }
       ]
+    },
+    {
+      "id": 6730,
+      "title": "Player Championship FINAL",
+      "slug": "Player-Championship-FINAL",
+      "cat": "Darts",
+      "status": "upcoming",
+      "event": {
+        "name": "Player Championship FINAL",
+        "category": "Darts",
+        "type": "",
+        "logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "teamA": "Darts",
+        "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "teamB": "Darts",
+        "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "startTimeIST": "2026-11-29 00:30:00 IST",
+        "endTimeIST": "2026-11-29 04:30:00 IST"
+      },
+      "streams": []
     },
     {
       "id": 4665,
@@ -1571,7 +1591,7 @@
       "streams": []
     },
     {
-      "id": 6728,
+      "id": 6729,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
@@ -1591,7 +1611,7 @@
       "streams": []
     },
     {
-      "id": 6729,
+      "id": 6731,
       "title": "Eintracht Braunschweig vs VfL Wolfsburg",
       "slug": "Eintracht-Braunschweig-vs-VfL-Wolfsburg",
       "cat": "Football",
